@@ -4,9 +4,6 @@
 - **🧠 I'm currently pursuing Bachelor's Degree in Computer Engineering**  
   
 
-- **👩‍💻 I'm currently working on Personal Portfolio Website**  
-  
-
 - **📫 How to reach me pratikreply@gmail.com**  
   
 
