@@ -10,7 +10,7 @@
 - **😄 Pronouns He/Him**  
   
 
-- **❓ Ask me about anything related to Technologies, Productivity, Computer**  
+- **❓ Ask me about anything related to Web Development, Technology, Productivity, Computer**  
   
 
 - **⚡️ Fun fact I think I am funny**  
