@@ -1,8 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang </br> 
 </h1>
 
-================================================================================
-
 ## I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩.....
 
 - 🌱 I’m currently learning and exploring Web Development.
@@ -69,7 +67,7 @@
     <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
     <img src="https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Intel%20Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     </p>
     <br>
