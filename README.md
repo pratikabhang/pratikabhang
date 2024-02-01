@@ -18,7 +18,7 @@
   <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
   <br>
-  <h2 align="center">Get in Touch</h2>
+  <h2 align="center">🖐 Get in Touch</h2>
   <p align="center">
   <a href="https://linkedin.com/in/pratikabhang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
   <a href="https://pratikabhang.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
