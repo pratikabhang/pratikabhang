@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
 - ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)
 - 📌 <a href="https://pratikabhang.netlify.app/" target="_blank">My Portfolio Website</a>
+<h2 align="center"></h2>
   <p align="center">
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
