@@ -1,7 +1,5 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang </br> 
 </h1>
-<br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 ## I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩.....
 
@@ -10,6 +8,9 @@
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
 - ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)
 - 📌 <a href="https://pratikabhang.netlify.app/" target="_blank">My Portfolio Website</a>
+
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+
   <br>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
