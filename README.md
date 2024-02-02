@@ -1,7 +1,5 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩...
 </h1>
-
-## I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩.....
 
 - 🌱 I’m currently learning and exploring Web Development.
 - 🥅 Goals: Learn everything as much as I can.
