@@ -1,9 +1,10 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩...
 </h1>
-- 🌱 I’m currently learning and exploring Web Development.
-- 🥅 Goals: Learn everything as much as I can.
-- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
-- ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)
+
+- 🌱 I’m currently learning and exploring Web Development.<br>
+- 🥅 Goals: Learn everything as much as I can.<br>
+- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.<br>
+- ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com) <br>
 - 📌 <a href="https://pratikabhang.netlify.app/" target="_blank">My Portfolio Website</a>
 <h2 align="center"></h2>
   <p align="center">
