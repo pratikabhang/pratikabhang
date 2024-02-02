@@ -1,7 +1,8 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang</h1>
-  <p align="center">
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang
+</h1>
+
 ## I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩.....
-</p>
+
 - 🌱 I’m currently learning and exploring Web Development.
 - 🥅 Goals: Learn everything as much as I can.
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
