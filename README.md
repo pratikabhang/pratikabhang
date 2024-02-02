@@ -1,6 +1,5 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> <h2>I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩...</h2>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang<h2>I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃 and Editor 🤩...</h2>
 </h1>
-
 - 🌱 I’m currently learning and exploring Web Development.
 - 🥅 Goals: Learn everything as much as I can.
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
@@ -80,5 +79,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast"/>
   </p>
-
-## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<h2> Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</h2>
