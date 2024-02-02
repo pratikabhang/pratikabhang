@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning and exploring Web Development.<br>
 - 🥅 Goals: Learn everything as much as I can.<br>
-- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.<br>
+- ⚡ Fun fact: Your brain is constantly eating itself..<br>
 - ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com) <br>
 - 📌 <a href="https://pratikabhang.netlify.app/" target="_blank">My Portfolio Website</a>
+  
 <h2 align="center"></h2>
   <p align="center">
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
@@ -80,4 +81,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast"/>
   </p>
+
 ## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
