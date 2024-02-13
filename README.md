@@ -35,8 +35,7 @@
   <h2 align="center">⚙️ Backend Langauge</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-  <img src="https://img.shields.io/badge/python-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="cplus"/>
+  <img src="https://img.shields.io/badge/java%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus"/>
   </p>
   <br>
