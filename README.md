@@ -35,7 +35,7 @@
   <h2 align="center">⚙️ Backend Langauge</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.sv?&style=for-the-badge&logo=java%2B%2B&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus"/>
   </p>
   <br>
@@ -58,10 +58,10 @@
   <p align="center">
   <a href="http://www.instagram.com/pratikabhang_/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pratikabhang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.github.com/pratikabhang"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.github.com/pratikabhang/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/pratikabhang/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
   <a href="https://www.leetcode.com/pratikabhang/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/pratikabhang"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/pratikabhang/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   </p>
   <br>
   <h2 align="center">👨🏻‍💻 Workspace</h2>
