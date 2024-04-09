@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 </h1>
 
-- 🌱 I’m currently learning and exploring Web Development.<br>
+- 🌱 I’m currently learning and exploring.<br>
 - 🥅 Goals: Learn everything as much as I can.<br>
 - ⚡ Fun fact: Your brain is constantly eating itself..<br>
 - ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com) <br>
