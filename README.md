@@ -48,10 +48,9 @@
   <br>
   <h2 align="center">🌐 Framework</h2>
   <p align="center">
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/angular.js-%23339933.svg?&style=for-the-badge&logo=angular.js&logoColor=white" alt="angularjs"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+
   </p>
   <br>
   <h2 align="center">🤙 Social</h2>
