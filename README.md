@@ -20,15 +20,16 @@
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 
 
-## 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikabhang_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pratikabhang)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikabhang) 
+## 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
-  <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
+    <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
   <a href="mailto:pratikabhang.in@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://instagram.com/pratikabhang_" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="pratikabhang_" /></a>
+  <a href="https://github.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/pratikabhang/practice/" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://leetcode.com/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://www.hackerrank.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-%2365FFDA.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="pratikabhang" /></a>
 </p>
 
 
