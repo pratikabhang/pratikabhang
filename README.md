@@ -1,10 +1,12 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 </h1>
-🌱 I’m currently learning and exploring.<br>
-🥅 Goals: Learn everything as much as I can.<br>
-⚡ Fun fact: Your brain is constantly eating itself..<br>
-✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a><br>
-📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
+I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
+
+🌱 I’m currently learning and exploring.  
+🥅 Goals: Learn everything as much as I can.  
+⚡ Fun fact: Your brain is constantly eating itself..  
+✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
+📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 <div align="center">
   <h2></h2>
   <p>
@@ -16,23 +18,11 @@
     <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
 </div>
-
-
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang
-I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
-
-🌱 I’m currently learning and exploring.  
-🥅 Goals: Learn everything as much as I can.  
-⚡ Fun fact: Your brain is constantly eating itself..  
-✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
-📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikabhang_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pratikabhang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikabhang) 
-
 
 ## 👨‍🎓 Skills
 #### 🖥️ Frontend Technologies
