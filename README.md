@@ -70,9 +70,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
