@@ -16,6 +16,7 @@
 ⚡ Fun fact: Your brain is constantly eating itself..  
 ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
+![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
 
 ---
 ## 🌐 Socials:
@@ -82,7 +83,5 @@
 #### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-#### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ---
-![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
+#### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
