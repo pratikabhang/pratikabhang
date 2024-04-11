@@ -17,7 +17,7 @@
 ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 
---
+----
 ## 🌐 Socials:
 <p align="left">
     <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
