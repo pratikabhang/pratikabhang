@@ -11,11 +11,11 @@
   </p>
 </div>
 
-🌱 I’m currently learning and exploring.  
-🥅 Goals: Learn everything as much as I can.  
-⚡ Fun fact: Your brain is constantly eating itself..  
-✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
-📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
+🌱 I’m currently learning and exploring.<br>
+🥅 Goals: Learn everything as much as I can.<br>
+⚡ Fun fact: Your brain is constantly eating itself...<br> 
+✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  <br>
+📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
 
 ---
