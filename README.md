@@ -85,7 +85,9 @@
 </div>
 
 # 💫 About Me:
-
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=6" />
+</a>
 
 
 ## 🌐 Socials:
@@ -131,6 +133,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
--
-[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=6)](https://visitcount.itsvg.in)
+#### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
