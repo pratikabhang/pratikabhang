@@ -1,14 +1,8 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
-</h1>
-I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 
-🌱 I’m currently learning and exploring.  
-🥅 Goals: Learn everything as much as I can.  
-⚡ Fun fact: Your brain is constantly eating itself..  
-✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
-📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 <div align="center">
-  <h2></h2>
+  
+  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
+</h1>
   <p>
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
