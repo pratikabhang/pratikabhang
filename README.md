@@ -67,10 +67,11 @@
 ## 📊 Statistics:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=swift&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-#### 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 #### 🔝 Top Contributed Repo
@@ -87,4 +88,3 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
-
