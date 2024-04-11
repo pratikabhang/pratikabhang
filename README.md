@@ -118,9 +118,10 @@
 
 ## 📊 Statistics 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
-![](https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" />
+
 ### 🏆 GitHub Trophies
 ![Trophie](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
