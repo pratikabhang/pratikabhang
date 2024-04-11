@@ -68,13 +68,9 @@
 <div style="background-color: white; color: black;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" style="filter: invert(100%);"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" /><br/>
-<a href="https://github.com/pratikabhang">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pratik Abhang's GitHub Stats">
-</a>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
