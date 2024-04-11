@@ -1,10 +1,10 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 </h1>
-🌱 I’m currently learning and exploring.<br>
-🥅 Goals: Learn everything as much as I can.<br>
-⚡ Fun fact: Your brain is constantly eating itself..<br>
-✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br>
-📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
+-- 🌱 I’m currently learning and exploring.<br>
+-- 🥅 Goals: Learn everything as much as I can.<br>
+-- ⚡ Fun fact: Your brain is constantly eating itself..<br>
+-- ✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br>
+-- 📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
 <div align="center">
   <h2></h2>
   <p>
@@ -12,8 +12,6 @@
   </p>
   <br>
   <p>
-  
-     <img src="https://visitcount.itsvg.in/api?id=pratikabhang&label=Profile%20Views&color=5&icon=5&pretty=false" />
     <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
     <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
@@ -76,34 +74,32 @@
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
-<h2 align="left">📊 GitHub Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="600" /><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="400"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="400" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="400"/>
-  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+<h2 align="center">📊 Statistics</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
+</div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratikabhang) 
 
 ## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
