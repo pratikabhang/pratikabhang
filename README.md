@@ -18,7 +18,7 @@
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
     <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
   <a href="mailto:pratikabhang.in@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
@@ -31,7 +31,7 @@
 </p>
 
 
-## 👨‍🎓 Skills:
+# 👨‍🎓 Skills:
 #### 🖥️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -62,7 +62,7 @@
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📊 Statistics:
+# 📊 Statistics:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false" width="450" />
