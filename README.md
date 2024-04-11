@@ -18,7 +18,9 @@
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
 
 ---
+
 # 🌐 Socials:
+
 <p align="left">
     <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
   <a href="mailto:pratikabhang.in@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
@@ -30,7 +32,9 @@
 </p>
 
 ---
+
 # 👨‍🎓 Skills:
+
 ### 🖥️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -64,20 +68,26 @@
 ---
 
 # 📊 Statistics:
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="auto"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" width="450" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" height="auto"/>
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
 ### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
