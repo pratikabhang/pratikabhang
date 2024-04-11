@@ -19,13 +19,20 @@ I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
   </p>
 </div>
 
-## 🌐 Socials:
+🌱 I’m currently learning and exploring.  
+🥅 Goals: Learn everything as much as I can.  
+⚡ Fun fact: Your brain is constantly eating itself..  
+✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
+📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
+
+
+## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikabhang_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pratikabhang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikabhang) 
 
-## 👨‍🎓 Skills
+## 👨‍🎓 Skills:
 #### 🖥️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -56,7 +63,7 @@ I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📊 Statistics 
+## 📊 Statistics:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false" width="450" />
@@ -74,7 +81,7 @@ I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 #### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+#### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
 
