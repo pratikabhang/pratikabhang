@@ -31,13 +31,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   </p>
   <br>
   <h2 align="center">⚙️ Backend Langauge</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus"/>
   </p>
   <br>
@@ -45,14 +43,12 @@
   <p align="center">
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/oracledb-%23E34F26.svg?&style=for-the-badge&logo=oarcaledb&logoColor=white" alt="oracledb"/>
   <p>
   <br>
   <h2 align="center">🌐 Framework</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/angular.js-%23339933.svg?&style=for-the-badge&logo=angular.js&logoColor=white" alt="angularjs"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-
   </p>
   <br>
   <h2 align="center">🤙 Social</h2>
@@ -75,11 +71,12 @@
   </p>
   <br>
   <h2 align="center">📊 Statistics</h2>
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width='450' />
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast' width='350'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast"/>
-  </p>
+ <div style="text-align:center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
+</div>
+
 
 ## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
