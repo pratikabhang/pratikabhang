@@ -6,16 +6,18 @@
 - ⚡ Fun fact: Your brain is constantly eating itself..<br>
 - ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com) <br>
 - 📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
-  
-<h2 align="center"></h2>
-  <p align="center">
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<div align="center">
+  <h2></h2>
+  <p>
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
   <br>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
-  <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
+</div>
+
   <br>
   <h2 align="center">🖐 Get in Touch</h2>
   <p align="center">
