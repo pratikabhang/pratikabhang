@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
   <a href="https://instagram.com/pratikabhang_" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="pratikabhang_" /></a>
   <a href="https://github.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="pratikabhang" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/pratikabhang/practice/" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pratikabhang" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="pratikabhang" /></a>
   <a href="https://leetcode.com/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="pratikabhang" /></a>
   <a href="https://www.hackerrank.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-%2365FFDA.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="pratikabhang" /></a>
 </p>
@@ -50,7 +50,7 @@
 #### 🗄️ Database Technologies
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracledb&logoColor=white) 
 
 #### 🎨 Design Technologies
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
