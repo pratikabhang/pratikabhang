@@ -16,8 +16,6 @@
 ⚡ Fun fact: Your brain is constantly eating itself...<br> 
 ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  <br>
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
-![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
-
 ---
 ## 🌐 Socials:
 <p align="left">
