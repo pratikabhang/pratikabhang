@@ -75,27 +75,19 @@
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
-
-# 📊 GitHub Stats:
+<h2 align="left">📊 GitHub Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" /><br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
-
-## 🏆 GitHub Trophies
+<h2 align="left">🏆 GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+<h2 align="left">✍️ Random Dev Quote</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
+<h2 align="left">🔝 Top Contributed Repo</h2>
 ![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
+<h2 align="left">😂 Random Dev Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-# 💫 About Me:
-🌱 I’m currently learning and exploring.<br><br>🥅 Goals: Learn everything as much as I can.<br><br>⚡ Fun fact: Your brain is constantly eating itself..<br><br>✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br><br>📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
 
 
 ## 🌐 Socials:
