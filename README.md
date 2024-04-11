@@ -83,3 +83,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
 </div>
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikabhang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikabhang" height="30" width="40" /></a>
+<a href="https://instagram.com/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikabhang" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratikabhang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratikabhang" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pratikabhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratikabhang" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikabhang&show_icons=true&locale=en&layout=compact" alt="pratikabhang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikabhang&show_icons=true&locale=en" alt="pratikabhang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&" alt="pratikabhang" /></p>
+
+## Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
