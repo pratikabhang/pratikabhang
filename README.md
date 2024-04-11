@@ -80,12 +80,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=dark&hide_border=false" width="450" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" />
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### 🔝 Top Contributed Repo
-![Contribute](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
