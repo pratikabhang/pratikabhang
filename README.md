@@ -16,7 +16,8 @@
     <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
 </div>
-<br>
+
+
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang
 I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 
