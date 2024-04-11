@@ -17,7 +17,7 @@
 ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)
 
-------
+---
 ## 🌐 Socials:
 <p align="left">
     <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
@@ -31,6 +31,7 @@
 </p>
 
 
+---
 ## 👨‍🎓 Skills:
 #### 🖥️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -62,6 +63,7 @@
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
 ## 📊 Statistics:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" />
@@ -82,4 +84,5 @@
 
 #### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+---
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
