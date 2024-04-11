@@ -11,11 +11,12 @@
   </p>
 </div>
 
-🌱 I’m currently learning and exploring.<br>
-🥅 Goals: Learn everything as much as I can.<br>
-⚡ Fun fact: Your brain is constantly eating itself...<br> 
-✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  <br>
-📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
+## 🌱 I’m currently learning and exploring.<br>
+## 🥅 Goals: Learn everything as much as I can.<br>
+## ⚡ Fun fact: Your brain is constantly eating itself...<br> 
+## ✉️ You can contact me at [pratikabhang.in@gmail.com](mailto:pratikabhang.in@gmail.com)  <br>
+## 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
+
 ---
 ## 🌐 Socials:
 <p align="left">
@@ -80,6 +81,8 @@
 
 #### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
 
 ---
 #### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
