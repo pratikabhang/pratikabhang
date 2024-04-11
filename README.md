@@ -29,7 +29,6 @@
   <a href="https://www.hackerrank.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-%2365FFDA.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="pratikabhang" /></a>
 </p>
 
-
 ---
 # 👨‍🎓 Skills:
 ### 🖥️ Frontend Technologies
@@ -68,16 +67,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="auto"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" width="450" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" height="auto"/>
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
