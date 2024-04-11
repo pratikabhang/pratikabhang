@@ -75,16 +75,20 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 <h2 align="left">📊 GitHub Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" /><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="600" /><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="400"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="400" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="400"/>
+  
 <h2 align="left">🏆 GitHub Trophies</h2>
-(https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+
 <h2 align="left">🔝 Top Contributed Repo</h2>
-(https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+img src="https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=onedark&combine_all_yearly_contributions=true">
+
 <h2 align="left">✍️ Random Dev Quote</h2>
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
 <h2 align="left">😂 Random Dev Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
