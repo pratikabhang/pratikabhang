@@ -1,10 +1,11 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am Student👨‍🎓, Programmer👨‍💻, Designer😃 and Editor🤩...
 </h1>
--- 🌱 I’m currently learning and exploring.<br>
--- 🥅 Goals: Learn everything as much as I can.<br>
--- ⚡ Fun fact: Your brain is constantly eating itself..<br>
--- ✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br>
--- 📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
+<h2 align="center">💫 About Me</h2>
+🌱 I’m currently learning and exploring.<br>
+🥅 Goals: Learn everything as much as I can.<be>
+⚡ Fun fact: Your brain is constantly eating itself..<be>
+✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br>
+📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
 <div align="center">
   <h2></h2>
   <p>
@@ -77,12 +78,25 @@
 
 <br>
 <h2 align="center">📊 Statistics</h2>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" /><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratikabhang&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" width="350"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=highcontrast" width="350" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=highcontrast" width="350"/>
 </div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 # 💫 About Me:
 🌱 I’m currently learning and exploring.<br><br>🥅 Goals: Learn everything as much as I can.<br><br>⚡ Fun fact: Your brain is constantly eating itself..<br><br>✉️ You can contact me at <a href="mailto:pratikabhang.in@gmail.com">pratikabhang.in@gmail.com</a> <br><br>📌 Go through my <a href="https://pratikabhang.netlify.app/" target="_blank">Portfolio</a>
@@ -109,12 +123,6 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratikabhang) 
 
   
 
