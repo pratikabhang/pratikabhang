@@ -12,6 +12,9 @@
   </p>
   <br>
   <p>
+    <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pratikabhang&label=Profile%20Views&color=5&icon=5&pretty=false" />
+</a>
     <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge">
     <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pratikabhang">
   </p>
