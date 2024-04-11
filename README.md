@@ -18,7 +18,7 @@
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
 
 ---
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
     <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
   <a href="mailto:pratikabhang.in@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
@@ -31,8 +31,8 @@
 
 
 ---
-## 👨‍🎓 Skills:
-#### 🖥️ Frontend Technologies
+# 👨‍🎓 Skills:
+### 🖥️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -40,22 +40,22 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
 
-#### ⚙️ Backend Technologies
+### ⚙️ Backend Technologies
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-#### 🗄️ Database Technologies
+### 🗄️ Database Technologies
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
-#### 🎨 Design Technologies
+### 🎨 Design Technologies
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-#### 👨🏻‍💻 Workspace
+### 👨🏻‍💻 Workspace
 ![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![Windows OS](https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Intel Core i7 12th](https://img.shields.io/badge/Intel%20Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -63,26 +63,26 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
-## 📊 Statistics:
+# 📊 Statistics:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="auto"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikabhang&theme=radical&hide_border=false" width="450" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" height="auto"/>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-#### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-#### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### 😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-#### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
