@@ -46,6 +46,7 @@
 ### ⚙️ Backend Technologies
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 ### 🗄️ Database Technologies
@@ -91,4 +92,5 @@
 ### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
-![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=5&color=0)
+
+[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=2)](https://visitcount.itsvg.in)
