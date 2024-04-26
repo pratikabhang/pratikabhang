@@ -94,5 +94,3 @@
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{pratikabhang}/count.svg)
 ![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=2)
-![](https://komarev.com/ghpvc/?username=your-github-pratikabhang&label=PROFILE+VIEWS)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
