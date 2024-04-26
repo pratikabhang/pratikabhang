@@ -93,4 +93,4 @@
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{pratikabhang}/count.svg)
-[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pratikabhang&icon=0&color=2)]
