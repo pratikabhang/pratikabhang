@@ -61,7 +61,7 @@
 ![Intel Core i7 12th](https://img.shields.io/badge/Intel%20Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Ubuntu OS]((https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
