@@ -14,7 +14,7 @@
 🌱 I’m currently learning and exploring.<br>
 🥅 Goals: Learn everything as much as I can.<br>
 ⚡ Fun fact: Your brain is constantly eating itself...<br> 
-✉️ You can contact me at [pratikabhang10@gmail.com](mailto:pratikabhang10@gmail.com)  <br>
+✉️ You can contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)  <br>
 📌 Go through my [Portfolio](https://pratikabhang.netlify.app/)<br>
 
 ---
