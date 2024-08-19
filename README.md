@@ -22,12 +22,12 @@
 # 🌐 Socials:
 
 <p align="left">
-    <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
-    <a href="mailto:work.pratikabhang@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
-    <a href="https://instagram.com/pratiksabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="pratikabhang_" /></a>
-    <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
+    <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="pratikabhang" /></a>
+    <a href="mailto:work.pratikabhang@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pratikabhang" /></a>
+    <a href="https://instagram.com/pratiksabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="pratikabhang" /></a>
+    <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratikabhang" /></a>
     <a href="https://github.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="pratikabhang" /></a>
-    <a href="https://heylink.me/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HeyLink-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="pratikabhang" /></a>
+    <a href="https://heylink.me/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HeyLink-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="pratikabhang" /></a>
 </p>
 
 ---
@@ -36,11 +36,11 @@
 
 ### 🖥️ Technology Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 👨🏻‍💻 Workspace
