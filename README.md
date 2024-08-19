@@ -33,22 +33,15 @@
 
 # 👨‍🎓 Skills:
 
-### 🖥️ Frontend Technologies
+### 🖥️ Technology Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-### ⚙️ Backend Technologies
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Other Technologies
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23000000.svg?style=for-the-badge) 
-![Object-Oriented Programming](https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge) 
-![Software Development Life Cycle](https://img.shields.io/badge/SDLC-%23000000.svg?style=for-the-badge) 
-![Database Management](https://img.shields.io/badge/Database-%23000000.svg?style=for-the-badge)
 
 ### 👨🏻‍💻 Workspace
 ![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
