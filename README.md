@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am a Student👨‍🎓, Programmer👨‍💻, Designer😃, and Editor🤩...
+  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am a Developer👨‍🎓, Engineer👨‍💻, Designer😃, and Editor🤩...
   </h1>
   <p>
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
