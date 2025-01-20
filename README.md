@@ -35,15 +35,12 @@
 ## 👨‍🎓 Skills:
 
 ### 🖥️ Technology
-![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,mongodb,expressjs,react,nodejs,anaconda,) 
+
+![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,mongodb,expressjs,react,nodejs,anaconda) 
 
 ### 👨🏻‍💻 Workspace
 
-![HP Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Workspace](https://skillicons.dev/icons?i=laptop,windows,android,microsoft,google) 
 
 ---
 
