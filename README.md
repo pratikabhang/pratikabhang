@@ -36,6 +36,8 @@
 
 ### 🖥️ Technology
 ![Programming Languages](https://skillicons.dev/icons?i=js,python,bash,php,java,ruby,go,cpp,c,ts)  
+https://skillicons.dev/icons?i=js,python,bash,php,java,ruby,go,cpp,c,ts,mysql,html,css,bootstrap,nodejs,dsa,oop,sdlc,ai
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
