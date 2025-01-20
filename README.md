@@ -35,7 +35,7 @@
 ## 👨‍🎓 Skills:
 
 ### 🖥️ Technology
-![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,react,node.js) 
+![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,mongodb,expressjs,react,nodejs,anaconda,) 
 
 ### 👨🏻‍💻 Workspace
 
