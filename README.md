@@ -37,7 +37,7 @@
 
 ### 🖥️ Technology
 
-![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,mongodb,expressjs,react,nodejs,postman) 
+![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,python,kotlin,mongodb,react,nodejs,postman) 
 
 ### 👨🏻‍💻 Workspace
 
