@@ -34,7 +34,7 @@
   }
 </style>
 
-
+<!-- Introduction and Contact Information -->
 🌱 I’m currently learning and exploring.<br>
 🥅 Goals: Learn everything as much as I can.<br>
 ⚡ Fun fact: Your brain is constantly eating itself...<br>
