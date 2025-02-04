@@ -8,16 +8,17 @@
   </p>
   <br>
 
-  <!-- Centering the badges -->
-  <p>
+  <!-- GitHub Stars and Views with a clean layout -->
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://img.shields.io/github/stars/pratikabhang?style=social" alt="GitHub Stars"/>
+      <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
     </a>
     <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=pratikabhang" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white" alt="Profile Views" />
     </a>
-  </p>
+  </div>
 </div>
+
 
 🌱 I’m currently learning and exploring.<br>
 🥅 Goals: Learn everything as much as I can.<br>
