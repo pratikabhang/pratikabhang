@@ -13,7 +13,6 @@
     <a href="https://github.com/pratikabhang" target="_blank">
       <img src="https://img.shields.io/github/stars/pratikabhang?style=social" alt="GitHub Stars"/>
     </a>
-    &nbsp;&nbsp;
     <a href="https://github.com/pratikabhang" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=pratikabhang" alt="Profile Views"/>
     </a>
