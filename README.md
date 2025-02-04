@@ -8,16 +8,31 @@
   </p>
   <br>
 
-  <!-- GitHub Stars and Views with a clean layout -->
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <!-- GitHub Stars and Views with a clean layout and animation -->
+  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
+    <!-- GitHub Stars Badge with hover animation -->
     <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+      <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&logoColor=white" 
+           alt="GitHub Stars" 
+           style="transition: transform 0.3s ease-in-out;"/>
     </a>
+    
+    <!-- GitHub Views Badge with hover animation -->
     <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white" 
+           alt="Profile Views" 
+           style="transition: transform 0.3s ease-in-out;"/>
     </a>
   </div>
 </div>
+
+<!-- Add some CSS for hover animation -->
+<style>
+  /* Hover animation for the badges */
+  a img:hover {
+    transform: scale(1.1); /* Scales the badge by 10% */
+  }
+</style>
 
 
 🌱 I’m currently learning and exploring.<br>
