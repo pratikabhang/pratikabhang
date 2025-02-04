@@ -1,10 +1,23 @@
 <div align="center">
-  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> I am a Developer👨‍🎓, Engineer👨‍💻, Designer😃, and Editor🤩...
+  <h1 align="center"> 
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br> 
+    I am a Developer👨‍🎓, Engineer👨‍💻, Designer😃, and Editor🤩...
   </h1>
   <p>
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
   <br>
+
+  <!-- Centering the badges -->
+  <p>
+    <a href="https://github.com/pratikabhang" target="_blank">
+      <img src="https://img.shields.io/github/stars/pratikabhang?style=social" alt="GitHub Stars"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/pratikabhang" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=pratikabhang" alt="Profile Views"/>
+    </a>
+  </p>
 </div>
 
 🌱 I’m currently learning and exploring.<br>
@@ -26,16 +39,6 @@
   <a href="https://leetcode.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://www.codechef.com/users/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
-
-<!-- GitHub Stars Badge: Shows how many stars your repository has -->
-<a href="https://github.com/pratikabhang" target="_blank">
-  <img src="https://img.shields.io/github/stars/pratikabhang?style=social" alt="GitHub Stars"/>
-</a>
-
-<!-- GitHub Views Badge: Shows how many views your profile has -->
-<a href="https://github.com/pratikabhang" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=pratikabhang" alt="Profile Views"/>
-</a>
 
 ---
 
