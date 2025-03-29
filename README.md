@@ -47,7 +47,7 @@
 ### 🖥️ Technology
 
 <!-- Skill Icons showing various technologies you work with -->
-![Technology](https://skillicons.dev/icons?i=java,sql,html,css,js,php,bootstrap,kotlin,react,nodejs)
+![Technology](https://skillicons.dev/icons?i=java,mysql,html,css,js,php,bootstrap,kotlin,react,nodejs)
 
 ### 👨🏻‍💻 Workspace
 
