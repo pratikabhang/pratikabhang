@@ -1,31 +1,18 @@
 <!-- GitHub Profile README for Pratik Abhang -->
 
-<div align="center">
+<h1>
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
+  I am Computer Engineer 👨‍💻, Developer 👨‍🎓, Designer 😃 & Editor 🤩...
+</h1>
 
-  <h1 align="center">
-    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-    I am Computer Engineer 👨‍💻, Developer 👨‍🎓, Designer 😃 & Editor 🤩...
-  </h1>
-
-  <p>
-    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
-  </p>
+<p>
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+</p>
 
 <!-- GitHub Stars and Profile Views -->
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white" alt="Profile Views" />
-    </a>
-  </div>
-
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pratikabhang)
   ![Stars](https://img.shields.io/github/stars/pratikabhang?style=social)
   ![Followers](https://img.shields.io/github/followers/pratikabhang?style=social)
-
-
 
 ---
 
@@ -39,7 +26,7 @@
 
 ## 🔗 Connect with me
 
-<p align="left">
+<p>
   <a href="https://pratikabhang.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" /></a>
   <a href="mailto:work.pratikabhang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -51,10 +38,9 @@
 
 ## 👨‍💻 Skills
 
-<p align="left">
-  <img align="center" src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode"/>
 </p>
-
 
 ---
 
