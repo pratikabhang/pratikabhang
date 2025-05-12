@@ -90,20 +90,6 @@
 
 ---
 
-## 🚀 Projects (Add your best work here!)
-
-- 📝 [My Portfolio](https://pratikabhang.netlify.app/)
-- 📦 [Any Noteworthy GitHub Repo](https://github.com/pratikabhang/your-project)
-
----
-
-## 📚 Blog Posts (Optional)
-
-<!-- Add your blog links here -->
-- 🧠 [Coming Soon...]
-
----
-
 <!-- Visitor Counter -->
 ![Visitor Count](https://profile-counter.glitch.me/pratikabhang/count.svg)
 
