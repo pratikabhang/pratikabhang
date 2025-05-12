@@ -29,69 +29,14 @@
 ---
 
 ## 🔗 Connect with me on:
-
 <p align="left">
-  <!-- Portfolio (Firefox icon is the closest fit for a browser) -->
-  <a href="https://pratikabhang.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firefox" alt="Portfolio" height="40" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:work.pratikabhang@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/pratikabhang/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/pratikabhang" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/pratikabhang" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/pratikabhang" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" />
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/pratikabhang" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="40" />
-  </a>
-</p>
-
-
-
-## 🔗 Connect with me on:
-<p align="left">
-  <a href="https://pratikabhang.netlify.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-  </a>
-  <a href="mailto:work.pratikabhang@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/pratikabhang/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pratikabhang" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.hackerrank.com/pratikabhang" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/pratikabhang" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/pratikabhang" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
+    <a href="https://pratikabhang.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" /></a>
+    <a href="mailto:work.pratikabhang@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://linkedin.com/in/pratikabhang/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.hackerrank.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.codechef.com/users/pratikabhang" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ---
