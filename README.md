@@ -21,6 +21,9 @@
     </a>
   </div>
 
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pratikabhang)
+
+
 ---
 
 ### 🌱 I'm currently learning and exploring.
