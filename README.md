@@ -14,12 +14,8 @@
   <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=pratikabhang">
   <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
   <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
-  <img alt="Total Repositories" src="https://img.shields.io/github/repos/pratikabhang?style=social">
 </div>
 </div>
-
-![GitHub Followers](https://img.shields.io/github/followers/pratikabhang?style=social)
-![GitHub Repo Count](https://img.shields.io/github/repo-count/pratikabhang?style=social)
 
 ---
 
