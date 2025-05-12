@@ -42,11 +42,11 @@
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode"/>
 </p>
 
-## 💻 Workspace
+<!--## 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_15+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)-->
 
 
 ## 📊 GitHub Stats
