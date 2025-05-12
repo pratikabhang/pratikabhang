@@ -15,10 +15,6 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
   <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
   <img alt="Total Repositories" src="https://img.shields.io/github/repos/pratikabhang?style=social">
-  <img alt="Total Commits" src="https://img.shields.io/github/commit-activity/m/pratikabhang?style=social">
-  <img alt="Open Issues" src="https://img.shields.io/github/issues/pratikabhang?style=social">
-  <img alt="Forks" src="https://img.shields.io/github/forks/pratikabhang?style=social">
-  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikAbhang?style=social">
 </div>
 </div>
 
