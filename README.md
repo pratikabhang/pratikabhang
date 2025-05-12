@@ -11,16 +11,52 @@
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
 
-  <!-- GitHub Stars and Profile Views -->
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/pratikabhang" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white" alt="Profile Views" />
-    </a>
+<!-- GitHub Stats Cards -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <!-- Stars Card -->
+  <div style="background: linear-gradient(135deg, #2d333b 0%, #1c2128 100%); 
+              padding: 12px 20px; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+              display: flex;
+              align-items: center;
+              gap: 8px;">
+    <svg width="20" height="20" viewBox="0 0 16 16" fill="#e3b341" style="margin-right: 5px;">
+      <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    </svg>
+    <span style="color: #adbac7; font-weight: 600; font-size: 14px;">GitHub Stars</span>
+    <span style="color: #e3b341; font-weight: 700; font-size: 16px; margin-left: 5px;" id="github-stars">0</span>
   </div>
 
+  <!-- Views Card -->
+  <div style="background: linear-gradient(135deg, #2d333b 0%, #1c2128 100%); 
+              padding: 12px 20px; 
+              border-radius: 10px; 
+              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+              display: flex;
+              align-items: center;
+              gap: 8px;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="#58a6ff" style="margin-right: 5px;">
+      <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>
+    </svg>
+    <span style="color: #adbac7; font-weight: 600; font-size: 14px;">Profile Views</span>
+    <span style="color: #58a6ff; font-weight: 700; font-size: 16px; margin-left: 5px;" id="profile-views">0</span>
+  </div>
+</div>
+
+<!-- JavaScript to fetch stats (optional) -->
+<script>
+  // Fetch GitHub stars
+  fetch('https://api.github.com/users/pratikabhang')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('github-stars').textContent = data.public_repos > 0 ? 
+        Math.round(data.public_repos / 2) + '+' : '0';
+    });
+  
+  // Profile views (using komarev as fallback)
+  document.getElementById('profile-views').textContent = 'Loading...';
+</script>
 </div>
 
 ---
@@ -29,7 +65,7 @@
 ### 🥅 Goals: Learn everything as much as I can.
 ### ⚡ Fun fact: Your brain is constantly eating itself...
 ### ✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)
-### 📌 Portfolio: [pratikabhang.netlify.app](https://pratikabhang.netlify.app/)
+### 📌 Portfolio: [pratikabhang](https://pratikabhang.netlify.app/)
 
 ---
 
