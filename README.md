@@ -19,11 +19,11 @@
 
 ---
 
-### 🌱 I'm currently learning and exploring.
-### 🥅 Goals: Learn everything as much as I can.
-### ⚡ Fun fact: Your brain is constantly eating itself...
-### ✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)
-### 📌 Portfolio: [pratikabhang](https://pratikabhang.netlify.app/)
+#### 🌱 I'm currently learning and exploring.
+#### 🥅 Goals: Learn everything as much as I can.
+#### ⚡ Fun fact: Your brain is constantly eating itself...
+#### ✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)
+#### 📌 Portfolio: [pratikabhang](https://pratikabhang.netlify.app/)
 
 ---
 
