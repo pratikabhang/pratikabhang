@@ -1,4 +1,5 @@
-<!-- GitHub Profile README for Pratik Abhang -->
+---
+
 <div align="center">
   <h1>
     Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
@@ -52,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="450" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="500" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450"/>-->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450"/>-->
 
@@ -72,5 +73,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/pratikabhang/count.svg)
 
 ---
-
-> Note: "Most Used Languages" reflects public GitHub code and not full experience.
