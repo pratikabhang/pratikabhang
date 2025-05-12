@@ -7,7 +7,7 @@
 
   <!-- Animated image showing coding activity -->
   <p>
-    <img alt="Coding" width="600" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+    <img alt="Coding" width="500" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
 
   <!-- GitHub stats badges -->
