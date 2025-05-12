@@ -28,27 +28,40 @@
 
 ---
 
-# 🌐 Socials:
+## 🔗 Connect with me on:
 
 <p align="left">
+  <!-- Portfolio (Firefox icon is the closest fit for a browser) -->
   <a href="https://pratikabhang.netlify.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=firefox" alt="Portfolio" height="40" />
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:work.pratikabhang@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/pratikabhang/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/pratikabhang" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/pratikabhang" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40" />
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/pratikabhang" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" />
   </a>
+
+  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/pratikabhang" target="_blank">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="40" />
   </a>
