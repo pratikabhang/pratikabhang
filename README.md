@@ -87,15 +87,6 @@
   <a href="https://www.netlify.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=netlify&showName=true" alt="Netlify" />
   </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=vscode&showName=true" alt="VS Code" />
-  </a>
-  <a href="https://about.google" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=google&showName=true" alt="Google" />
-  </a>
-  <a href="https://www.microsoft.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=microsoft&showName=true" alt="Microsoft" />
-  </a>
 </p>
 
 ---
