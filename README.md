@@ -4,7 +4,7 @@
 
   <h1 align="center">
     Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-    I am a Computer Engineer 👨‍💻, Developer 👨‍🎓, Designer 😃, and Editor 🤩...
+    I am a Computer Engineer 👨‍💻, Developer 👨‍🎓, Designer 😃 & Editor 🤩...
   </h1>
 
   <p>
