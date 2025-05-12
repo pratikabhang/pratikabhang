@@ -27,7 +27,7 @@
 #### ✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)
 #### 📌 Portfolio: [pratikabhang](https://pratikabhang.netlify.app/)
 
-----
+---
 
 ## 🔗 Connect with me
 
