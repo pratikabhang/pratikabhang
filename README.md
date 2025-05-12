@@ -1,21 +1,21 @@
 <!-- GitHub Profile README for Pratik Abhang -->
+<div align="center">
+  <h1>
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
+    I am Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
+  </h1>
 
-<h1>
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-  I am Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
-</h1>
+  <p>
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+  </p>
 
-<p>
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
-</p>
-
-<!-- Centered GitHub Stars and Profile Views -->
-<div style="text-align: center;">
-  <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=pratikabhang">
-  <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
-  <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
+  <!-- Centered GitHub Stars and Profile Views -->
+  <div style="text-align: center;">
+    <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=pratikabhang">
+    <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
+    <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
+  </div>
 </div>
-
 
 ---
 
