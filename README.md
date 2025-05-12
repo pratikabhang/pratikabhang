@@ -7,7 +7,7 @@
 
   <!-- Animated image showing coding activity -->
   <p>
-    <img alt="Coding" width="500" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+    <img alt="Coding" width="550" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
 
   <!-- GitHub stats badges -->
@@ -42,12 +42,6 @@
   <a href="https://linkedin.com/in/pratikabhang/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/pratikabhang" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.hackerrank.com/pratikabhang" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
 </p>
 
 ## 👨‍💻 Skills
@@ -69,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub profile summary card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="600" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="550" />
 
 <!-- Optional: Additional stats (commented out) -->
 <!--
