@@ -48,46 +48,9 @@
 ## 👨‍💻 Skills
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=java&showName=true" alt="Java" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=mysql&showName=true" alt="MySQL" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=html&showName=true" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=css&showName=true" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=javascript&showName=true" alt="JavaScript" />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=php&showName=true" alt="PHP" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=bootstrap&showName=true" alt="Bootstrap" />
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=react&showName=true" alt="React" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=nodejs&showName=true" alt="Node.js" />
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=mongodb&showName=true" alt="MongoDB" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=kotlin&showName=true" alt="Kotlin" />
-  </a>
-  <a href="https://www.postman.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=postman&showName=true" alt="Postman" />
-  </a>
-  <a href="https://www.netlify.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=netlify&showName=true" alt="Netlify" />
-  </a>
+  <img align="center" src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode"/></a>
 </p>
+
 
 ---
 
