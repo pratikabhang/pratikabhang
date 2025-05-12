@@ -22,6 +22,9 @@
   </div>
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pratikabhang)
+  ![Stars](https://img.shields.io/github/stars/pratikabhang?style=social)
+  ![Followers](https://img.shields.io/github/followers/pratikabhang?style=social)
+
 
 
 ---
