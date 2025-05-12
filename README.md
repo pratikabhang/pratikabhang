@@ -18,6 +18,9 @@
 </div>
 </div>
 
+![GitHub Followers](https://img.shields.io/github/followers/pratikabhang?style=social)
+![GitHub Repo Count](https://img.shields.io/github/repo-count/pratikabhang?style=social)
+
 ---
 
 #### 🌱 I'm currently learning and exploring.
