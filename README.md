@@ -9,12 +9,15 @@
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
 
-  <!-- Centered GitHub Stars and Profile Views -->
-  <div style="text-align: center;">
-    <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=pratikabhang">
-    <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
-    <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
-  </div>
+<!-- Centered GitHub Stats: Commits, Repositories, Issues -->
+<div style="text-align: center;">
+  <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=pratikabhang">
+  <img alt="Stars" src="https://img.shields.io/github/stars/pratikabhang?style=social">
+  <img alt="Followers" src="https://img.shields.io/github/followers/pratikabhang?style=social">
+  <img alt="Total Repositories" src="https://img.shields.io/github/repos/pratikabhang?style=social">
+  <img alt="Total Commits" src="https://img.shields.io/github/commit-activity/m/pratikabhang?style=social">
+</div>
+
 </div>
 
 ---
