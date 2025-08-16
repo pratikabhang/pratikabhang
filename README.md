@@ -84,10 +84,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-<!-- Profile visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratikabhang/count.svg" />
-</p>
