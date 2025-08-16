@@ -38,7 +38,7 @@
 
 ## 🛠️ Skills  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma&perline=20" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mongodb,express,react,nodejs,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma&perline=20" />
 </div>
 
 ---
