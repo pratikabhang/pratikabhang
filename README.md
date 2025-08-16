@@ -32,6 +32,8 @@
 🥅 Goals: Learn everything as much as I can  
 ⚡ Fun fact: Your brain is constantly eating itself...  
 
+---
+
 ## 🔗 Connect with Me  
 
 <div align="center">
@@ -46,6 +48,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)
 
 </div>
+
+---
 
 ## 👨‍💻 Skills  
 
@@ -84,7 +88,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </div>
-
 
 ---
 
