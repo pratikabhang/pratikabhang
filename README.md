@@ -31,6 +31,11 @@
 💬 Ask me about Web Development, App Development & UI/UX  
 ⚡ Fun fact: Your brain is constantly eating itself...  
 
+🌱 I'm currently learning and exploring  
+🥅 Goals: Learn everything as much as I can  
+✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)  
+📌 Portfolio: [pratikabhang.netlify.app](https://pratikabhang.netlify.app/)  
+
 ---
 
 ## 🔗 Connect with Me  
@@ -93,11 +98,4 @@
 
 <p align="center">
   <img src="https://meme-api.com/gimme" width="400" alt="Random Meme from Reddit" />
-</p>
-
----
-
-<!-- Profile visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratikabhang/count.svg" />
 </p>
