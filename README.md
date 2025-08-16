@@ -23,11 +23,13 @@
 ---
 
 ## 🌱 About Me  
-- 🌱 I'm currently learning and exploring.  
-- 🥅 Goals: Learn everything as much as I can.  
-- ⚡ Fun fact: Your brain is constantly eating itself...  
-- ✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)  
-- 📌 Portfolio: [pratikabhang.netlify.app](https://pratikabhang.netlify.app/)  
+
+🔭 I'm currently working on Web Development & App Projects  
+🤝 I'm looking to collaborate on Open Source & Innovative Projects  
+🆘 I'm looking for help with Advanced Backend & Cloud Technologies  
+📖 I'm currently learning React, Node.js & Kotlin  
+💬 Ask me about Web Development, App Development & UI/UX  
+⚡ Fun fact: Your brain is constantly eating itself...  
 
 ---
 
@@ -83,4 +85,19 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 😂 Random Meme  
+
+<p align="center">
+  <img src="https://meme-api.com/gimme" width="400" alt="Random Meme from Reddit" />
+</p>
+
+---
+
+<!-- Profile visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/pratikabhang/count.svg" />
 </p>
