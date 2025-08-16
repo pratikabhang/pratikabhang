@@ -28,13 +28,9 @@
 🤝 I'm looking to collaborate on Open Source & Innovative Projects  
 🆘 I'm looking for help with Advanced Backend & Cloud Technologies  
 📖 I'm currently learning React, Node.js & Kotlin  
-💬 Ask me about Web Development, App Development & UI/UX  
-⚡ Fun fact: Your brain is constantly eating itself...  
-
-🌱 I'm currently learning and exploring  
+💬 Ask me about Web Development, App Development & UI/UX 
 🥅 Goals: Learn everything as much as I can  
-✉️ Contact me at [work.pratikabhang@gmail.com](mailto:work.pratikabhang@gmail.com)  
-📌 Portfolio: [pratikabhang.netlify.app](https://pratikabhang.netlify.app/)  
+⚡ Fun fact: Your brain is constantly eating itself...  
 
 ---
 
