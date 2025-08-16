@@ -38,10 +38,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikabhang.netlify.app)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratikabhang1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&label=Portfolio)](https://pratikabhang.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F&logoColor=white&label=Instagram)](https://instagram.com/pratikabhang1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2&logoColor=white&label=LinkedIn)](https://linkedin.com/in/pratikabhang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=D14836&color=D14836&logoColor=white&label=Email)](mailto:work.pratikabhang@gmail.com)
 
 </div>
 
@@ -50,7 +50,7 @@
 ## 🛠️ Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma,canva&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma,canva&perline=20" />
 </div>
 
 ---
