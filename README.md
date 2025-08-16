@@ -3,7 +3,7 @@
 
   <h1>
     Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
+    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩
   </h1>
 
   <!-- Animated image showing coding activity -->
@@ -38,10 +38,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://pratikabhang.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com/pratikabhang1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pratikabhang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:work.pratikabhang@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikabhang.netlify.app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratikabhang1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)  
 
 </div>
 
@@ -50,7 +50,7 @@
 ## 🛠️ Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma&perline=20" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma,canva&perline=10" />
 </div>
 
 ---
