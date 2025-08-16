@@ -32,8 +32,6 @@
 🥅 Goals: Learn everything as much as I can  
 ⚡ Fun fact: Your brain is constantly eating itself...  
 
----
-
 ## 🔗 Connect with Me  
 
 <div align="center">
