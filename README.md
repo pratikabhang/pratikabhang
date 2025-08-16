@@ -84,18 +84,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-## 😂 Random Meme  
-
-<p align="center">
-  <img src="https://meme-api.com/gimme" width="400" alt="Random Meme from Reddit" />
-</p>
-
----
-
-<!-- Profile visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratikabhang/count.svg" />
-</p>
