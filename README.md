@@ -57,6 +57,11 @@
   <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,mongodb,express,react,nodejs,spring,django,kotlin,firebase,netlify,redis,docker,github,vscode,postman,figma,canva" />
 </div>
 
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,mongodb,express,react,nodejs,spring,django,kotlin,firebase,netlify,redis,docker,github,vscode,postman,figma,canva,c,cpp,php,bootstrap,tailwind,git,linux,aws,azure" />
+</div>
 
 ---
 
