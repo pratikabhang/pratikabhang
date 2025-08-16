@@ -24,13 +24,13 @@
 
 ## 🌱 About Me  
 
-🔭 I'm currently working on Web Development & App Projects  
-🤝 I'm looking to collaborate on Open Source & Innovative Projects  
-🆘 I'm looking for help with Advanced Backend & Cloud Technologies  
-📖 I'm currently learning React, Node.js & Kotlin  
-💬 Ask me about Web Development, App Development & UI/UX  
-🥅 Goals: Learn everything as much as I can  
-⚡ Fun fact: Your brain is constantly eating itself...  
+- 🔭 I'm currently working on **Web Development & App Projects**  
+- 🤝 I'm looking to collaborate on **Open Source & Innovative Projects**  
+- 🆘 I'm looking for help with **Advanced Backend & Cloud Technologies**  
+- 📖 I'm currently learning **React, Node.js & Kotlin**  
+- 💬 Ask me about **Web Development, App Development & UI/UX**  
+- 🥅 Goals: **Learn everything as much as I can**  
+- ⚡ Fun fact: **Your brain is constantly eating itself...**  
 
 ---
 
@@ -38,24 +38,24 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikabhang.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratikabhang1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/pratikabhang21)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/pratikabhang)
-[![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratikabhang21)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pratikabhang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikabhang.netlify.app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratikabhang1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/pratikabhang21)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/pratikabhang)  
+[![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratikabhang21)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pratikabhang)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)  
 
 </div>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,php,mongodb,express,react,nodejs,spring,django,firebase,netlify,github,vscode,postman,figma,canva" />
-
+</div>
 
 ---
 
