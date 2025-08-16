@@ -27,7 +27,7 @@
 ---
 
 ## 🔗 Connect with Me  
-<div align="center">
+<div align="left">
   <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
   <a href="https://instagram.com/pratikabhang1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
