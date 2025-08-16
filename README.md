@@ -48,7 +48,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com)  
 
 </div>
-
 ---
 
 ## 🛠️ Skills
@@ -56,7 +55,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma,canva&perline=10" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats  
@@ -64,7 +62,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="100%" />
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies  
@@ -72,7 +69,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" />
 </div>
-
 ---
 
 ## 🔝 Top Contributed Repositories  
@@ -80,7 +76,6 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="100%" />
 </div>
-
 ---
 
 ## ✍️ Random Dev Quote  
