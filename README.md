@@ -51,10 +51,10 @@
 
 ---
 
-## 👨‍💻 Skills  
+## 🛠️ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,react,nextjs,tailwind,bootstrap,nodejs,express,spring,django,mongodb,firebase,redis,docker,nginx,git,github,vscode,postman,figma,canva,anaconda,netlify" />
 </div>
 
 ---
