@@ -28,20 +28,11 @@
 
 ## 🔗 Connect with Me  
 <div align="center">
-  <a href="https://pratikabhang.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" height="40" width="150"/>
-  </a>
-  <a href="https://instagram.com/pratikabhang1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" height="40" width="150"/>
-  </a>
-  <a href="https://linkedin.com/in/pratikabhang">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="40" width="150"/>
-  </a>
-  <a href="mailto:work.pratikabhang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="40" width="150"/>
-  </a>
+  <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
+  <a href="https://instagram.com/pratikabhang1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="mailto:work.pratikabhang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" /></a>
 </div>
-
 
 ---
 
