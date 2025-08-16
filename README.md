@@ -1,9 +1,8 @@
-<!-- Center-align all content -->
 <div align="center">
 
   <h1>
     Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩
+    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
   </h1>
 
   <!-- Animated image showing coding activity -->
@@ -38,10 +37,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&label=Portfolio)](https://pratikabhang.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F&logoColor=white&label=Instagram)](https://instagram.com/pratikabhang1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2&logoColor=white&label=LinkedIn)](https://linkedin.com/in/pratikabhang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=D14836&color=D14836&logoColor=white&label=Email)](mailto:work.pratikabhang@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://pratikabhang.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com/pratikabhang1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pratikabhang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:work.pratikabhang@gmail.com)
 
 </div>
 
@@ -50,7 +49,7 @@
 ## 🛠️ Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma,canva&perline=20" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,express,mysql,mongodb,php,spring,django,firebase,netlify,github,vscode,postman,figma&perline=20" />
 </div>
 
 ---
