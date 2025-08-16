@@ -28,7 +28,7 @@
 🤝 I'm looking to collaborate on Open Source & Innovative Projects  
 🆘 I'm looking for help with Advanced Backend & Cloud Technologies  
 📖 I'm currently learning React, Node.js & Kotlin  
-💬 Ask me about Web Development, App Development & UI/UX 
+💬 Ask me about Web Development, App Development & UI/UX  
 🥅 Goals: Learn everything as much as I can  
 ⚡ Fun fact: Your brain is constantly eating itself...  
 
@@ -36,62 +36,61 @@
 
 ## 🔗 Connect with Me  
 
-<p align="center">
-  <a href="https://pratikabhang.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-  </a>
-  <a href="mailto:work.pratikabhang@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/pratikabhang/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikabhang.netlify.app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikabhang1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikabhang) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pratikabhang21) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pratikabhang) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pratikabhang21) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikabhang) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.pratikabhang@gmail.com) 
 
 ---
 
 ## 👨‍💻 Skills  
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,php,bootstrap,react,nodejs,mongodb,kotlin,postman,netlify,vscode" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="550" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=vue" width="100%" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" />
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repositories  
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="100%" />
+</div>
 
 ---
 
 ## ✍️ Random Dev Quote  
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</div>
 
 ---
 
-## 😂 Random Meme  
+## 💰 Support Me  
 
-<p align="center">
-  <img src="https://meme-api.com/gimme" width="400" alt="Random Meme from Reddit" />
-</p>
+<div align="center">
+  <a href="https://paypal.me/pratikabhang">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</div>
