@@ -16,7 +16,6 @@
 ---
 
 ## 🌱 About Me  
-- 🔭 I'm currently working on **Web Development & App Projects**  
 - 🤝 I'm looking to collaborate on **Open Source & Innovative Projects**  
 - 🆘 I'm looking for help with **Advanced Backend & Cloud Technologies**  
 - 📖 I'm currently learning **React, Node.js & Kotlin**  
