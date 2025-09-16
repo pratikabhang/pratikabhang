@@ -16,10 +16,9 @@
 ---
 
 ## 🌱 About Me  
-- 🤝 I'm looking to collaborate on **Open Source & Innovative Projects**  
-- 🆘 I'm looking for help with **Advanced Backend & Cloud Technologies**  
-- 📖 I'm currently learning **React, Node.js & Kotlin**  
-- 💬 Ask me about **Web Development, App Development & UI/UX**  
+- 🤝 I'm looking to collaborate on **Open Source & Cloud Technologie Projects**  
+- 📖 I'm currently learning **Cloud Computing and Artificial Intelligence**  
+- 💬 Ask me about **Web Development, Cloud Development & UI/UX**  
 - 🥅 Goals: **Learn everything as much as I can**  
 - ⚡ Fun fact: **Your brain is constantly eating itself...**  
 
