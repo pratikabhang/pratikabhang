@@ -48,20 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikabhang&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories  
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pratikabhang&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="100%" />
-</div>
-
----
-
 ## ✍️ Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
