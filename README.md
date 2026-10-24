@@ -18,17 +18,13 @@
   <h3>🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
 
 
-  <!-- Animated introduction: what I'm building and exploring -->
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking"
-    alt="Animated introduction"
-  />
-
-  <!-- Animated technical interests -->
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Cybersecurity;%F0%9F%A4%96+AI+%26+Machine+Learning;%E2%98%81%EF%B8%8F+Cloud+Computing;%F0%9F%8C%90+Networking;%F0%9F%92%BB+Web+Development;%F0%9F%A7%A0+HPC+%26+AI"
-    alt="Cybersecurity, AI and Machine Learning, Cloud Computing, Networking, Web Development, and High-Performance Computing"
+ 
+<!-- Single combined typing animation -->
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking;%F0%9F%94%90+Cybersecurity;%F0%9F%A4%96+AI+%26+Machine+Learning;%E2%98%81%EF%B8%8F+Cloud+Computing;%F0%9F%8C%90+Networking;%F0%9F%92%BB+Web+Development;%F0%9F%A7%A0+HPC+%26+AI"
+  alt="Building web applications, AI, Cloud Computing, DevOps, Cybersecurity, Networking, Web Development, and HPC"
 />
+
 
 
   <!-- Areas of interest -->
