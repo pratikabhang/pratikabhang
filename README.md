@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
 
-<p align="center">
-  <strong>👋 Hi, I'm Pratik Abhang</strong>
-</p>
+<p align="center"><strong>👋 Hi, I'm Pratik Abhang</strong></p>
 
 <h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
 
@@ -25,23 +23,22 @@
 </p>
 
 </div>
-
 ---
 
 ## 🌱 About Me
 
-I'm a computer engineering enthusiast passionate about software development, emerging technologies and solving real-world problems.
+I'm a computer engineering enthusiast passionate about software development, emerging technologies, and solving real-world problems.
 
-- 🤝 Looking to collaborate on **open-source, cloud and software development projects**.
-- 📚 Exploring **cloud computing, artificial intelligence and machine learning**.
-- 💬 Interested in **web development, cybersecurity, networking and UI/UX**.
-- 🧠 I enjoy solving coding challenges, logical puzzles and technical problems.
+- 🤝 Looking to collaborate on **open-source, cloud, and software development projects**.
+- 📚 Exploring **cloud computing, artificial intelligence, and machine learning**.
+- 💬 Interested in **web development, cybersecurity, networking, and UI/UX**.
+- 🧠 I enjoy solving coding challenges, logical puzzles, and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
 
 ## 🧰 Technology Stack
 
-*Technologies and tools I use, explore or am learning.*
+*Technologies and tools I use, explore, or am learning.*
 
 ### 💻 Programming Languages
 <p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Bash" /></p>
@@ -197,6 +194,6 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 
 <div align="center">
 
-### 🧠 99% Curiosity, 1% Knowing What I'm Doing 😂
+<h3>🧠 99% Curiosity, 1% Knowing What I'm Doing 😂</h3>
 
 </div>
