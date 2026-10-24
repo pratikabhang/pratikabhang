@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
-
-<p align="center"><strong>👋 Hi, I'm Pratik Abhang</strong></p>
+  <h1>
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
+    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
+  </h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
