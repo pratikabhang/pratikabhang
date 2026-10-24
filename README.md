@@ -90,6 +90,8 @@ I'm a computer engineering enthusiast passionate about software development, eme
 - 🧠 I enjoy solving coding challenges, logical puzzles and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
+- 
+---
 
 ## 🧰 Technology Stack
 
