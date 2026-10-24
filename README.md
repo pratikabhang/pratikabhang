@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Pratik Abhang
 
@@ -6,23 +6,23 @@
 
 **Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development**
 
-\<img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=600\&size=18\&duration=2800\&pause=900\&color=00BFFF\&center=true\&vCenter=true\&width=650\&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking)" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
-\<p>
-\<a href="[https://github.com/pratikabhang](https://github.com/pratikabhang)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />\</a>
-\<a href="[https://pratikabhang.netlify.app](https://pratikabhang.netlify.app)">\<img src="[https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />\</a>
-\<a href="[https://linkedin.com/in/pratikabhang](https://linkedin.com/in/pratikabhang)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />\</a>
-\</p>
+<p>
+  <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-\<p>
-\<img src="[https://komarev.com/ghpvc/?username=pratikabhang&style=flat-square&color=00BFFF&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=pratikabhang\&style=flat-square\&color=00BFFF\&label=PROFILE+VIEWS)" alt="Profile views" />
-\<img src="[https://img.shields.io/github/followers/pratikabhang?style=flat-square&label=Followers](https://img.shields.io/github/followers/pratikabhang?style=flat-square\&label=Followers)" alt="Followers" />
-\<img src="[https://img.shields.io/github/stars/pratikabhang?style=flat-square&label=Stars](https://img.shields.io/github/stars/pratikabhang?style=flat-square\&label=Stars)" alt="Stars" />
-\</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pratikabhang?style=flat-square&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/pratikabhang?style=flat-square&label=Stars" alt="GitHub stars" />
+</p>
 
-\<img src="[https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)" width="500" alt="Animated web developer" />
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
 
-\</div>
+</div>
 
 ---
 
@@ -33,7 +33,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 - 🤝 Looking to collaborate on **open-source, cloud, and software development projects**.
 - 📚 Exploring **cloud computing, artificial intelligence, and machine learning**.
 - 💬 Interested in **web development, cybersecurity, networking, and UI/UX**.
-- 🧠 Enjoy solving coding challenges, logical puzzles, and technical problems.
+- 🧠 I enjoy solving coding challenges, logical puzzles, and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain is constantly “eating itself” through cellular recycling processes such as autophagy, which help cells reuse damaged components.
 
@@ -45,35 +45,35 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 💻 Programming Languages
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash\&perline=8)" alt="Programming languages" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Bash" /></p>
 
 ### 🌐 Frontend Development
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap&perline=8](https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap\&perline=8)" alt="Frontend technologies" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap&perline=8" alt="HTML, CSS, Sass, React, Vite, Next.js, Vue, Angular, Tailwind CSS, Bootstrap" /></p>
 
 ### ⚙️ Backend Development & APIs
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx&perline=8](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx\&perline=8)" alt="Backend technologies" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx&perline=8" alt="Node.js, Express, NestJS, Django, Flask, FastAPI, Spring, GraphQL, Nginx" /></p>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter&perline=6](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter\&perline=6)" alt="AI and machine learning tools" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter&perline=6" alt="Python, PyTorch, TensorFlow, OpenCV, Anaconda, Jupyter" /></p>
 
 ### 🛡️ Cybersecurity & Networking
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash,cloudflare&perline=7](https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash,cloudflare\&perline=7)" alt="Cybersecurity and networking tools" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash,cloudflare&perline=7" alt="Kali Linux, Linux, Ubuntu, Windows, PowerShell, Bash, Cloudflare" /></p>
 
 ### ☁️ Cloud Computing & DevOps
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&perline=8](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions\&perline=8)" alt="Cloud and DevOps tools" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&perline=8" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions" /></p>
 
 ### 🗄️ Databases & Storage
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase&perline=7](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase\&perline=7)" alt="Databases and storage" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase&perline=7" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase" /></p>
 
 ### 🧪 Developer Tools & Testing
 
-\<p align="left">\<img src="[https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest&perline=8](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest\&perline=8)" alt="Developer tools" />\</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest&perline=8" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA, PyCharm, Figma, Postman, Jest, Vitest" /></p>
 
 ---
 
@@ -92,53 +92,55 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ## 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/pratikabhang](https://github.com/pratikabhang)">
-\<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang\&theme=github_dark)" alt="GitHub profile summary" width="100%" />
-\</a>
+<a href="https://github.com/pratikabhang">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikabhang&theme=github_dark" alt="GitHub profile summary" width="100%" />
+</a>
 
-\<br/>
+<br />
 
-\<table>
-\<tr>
-\<td width="50%" align="center" valign="top">
-\<img src="[https://github-readme-stats.vercel.app/api?username=pratikabhang&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=pratikabhang\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)" alt="GitHub statistics" width="100%" />
-\</td>
-\<td width="50%" align="center" valign="top">
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&layout=compact&theme=github_dark&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang\&layout=compact\&theme=github_dark\&hide_border=true\&langs_count=8)" alt="Most-used languages" width="100%" />
-\</td>
-\</tr>
-\</table>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-\<br/>
+<br />
 
-\<img src="[https://streak-stats.demolab.com?user=pratikabhang&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=pratikabhang\&theme=github-dark-blue\&hide_border=true)" alt="GitHub contribution streak" width="75%" />
+<img src="https://streak-stats.demolab.com?user=pratikabhang&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="75%" />
 
-\</div>
+</div>
+
+<sub>GitHub analytics are provided by external services and may occasionally be delayed or unavailable. Language statistics represent repository code, not overall programming proficiency.</sub>
 
 ---
 
 ## 🧩 Coding Platforms
 
-\<p align="left">
-\<a href="[https://leetcode.com/](https://leetcode.com/)">\<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />\</a>
-\<a href="[https://www.codechef.com/](https://www.codechef.com/)">\<img src="[https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)" alt="CodeChef" />\</a>
-\<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/)">\<img src="[https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)" alt="HackerRank" />\</a>
-\<a href="[https://codeforces.com/](https://codeforces.com/)">\<img src="[https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)" alt="Codeforces" />\</a>
-\<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)">\<img src="[https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)" alt="GeeksforGeeks" />\</a>
-\<a href="[https://www.kaggle.com/](https://www.kaggle.com/)">\<img src="[https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)" alt="Kaggle" />\</a>
-\</p>
+<p align="left">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
 
-\<sub>Official platform links. Add your personal profile URLs to showcase your coding activity.\</sub>
+<sub>These are official platform links. Add your personal profile URLs to showcase your coding activity.</sub>
 
 ---
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
 
-*This section can be automatically updated every day using the GitHub Actions workflow described below.*
+<sub>This section can be automatically updated every day using the GitHub Actions workflow in .github/workflows/daily-readme.yml.</sub>
 
-\<!-- DAILY_CONTENT_START -->
+<!-- DAILY_CONTENT_START -->
 
 ### 🧠 Random Fact of the Day
 
@@ -148,12 +150,12 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 
 **Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
 
-\<details>
-\<summary>💡 Reveal the solution\</summary>
+<details>
+<summary>💡 Reveal the solution</summary>
 
-**Answer: 9 sheep.** All except nine ran away.
+**Answer: 9 sheep.** “All but 9” means all except nine ran away.
 
-\</details>
+</details>
 
 ### ⚡ Tech Quiz of the Day
 
@@ -164,14 +166,14 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 - C. Tree
 - D. Graph
 
-\<details>
-\<summary>✅ Reveal the answer\</summary>
+<details>
+<summary>✅ Reveal the answer</summary>
 
 **Correct answer: B — Stack.** The last item added is the first item removed.
 
-\</details>
+</details>
 
-\<!-- DAILY_CONTENT_END -->
+<!-- DAILY_CONTENT_END -->
 
 ---
 
@@ -190,25 +192,26 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 
 ## ✍️ Random Dev Quote
 
-\<div align="center">
-\<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)" alt="Random developer quote" width="80%" />
-\</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" width="80%" />
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-\<p align="left">
-\<a href="[https://pratikabhang.netlify.app](https://pratikabhang.netlify.app)">\<img src="[https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio" />\</a>
-\<a href="[https://github.com/pratikabhang](https://github.com/pratikabhang)">\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />\</a>
-\<a href="[https://linkedin.com/in/pratikabhang](https://linkedin.com/in/pratikabhang)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />\</a>
-\<a href="[https://instagram.com/pratikabhang1](https://instagram.com/pratikabhang1)">\<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram" />\</a> \<a href="mailto\:work.pratikabhang\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />\</a>
-\</p>
+<p align="left">
+  <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/pratikabhang1"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:work.pratikabhang@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### ✨ Learn Continuously · Build Thoughtfully · Explore Responsibly 🚀
 
-\</div>
+</div>
