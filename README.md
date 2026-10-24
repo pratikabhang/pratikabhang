@@ -4,9 +4,9 @@
 
 <p align="center"><strong>👋 Hi, I'm Pratik Abhang</strong></p>
 
-<h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
+
+<h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
 
 <p><strong>Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development</strong></p>
 
