@@ -44,15 +44,11 @@ I'm a computer engineering enthusiast passionate about software development, eme
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Bash" />
 </div>
 
-**C · C++ · Java · Python · JavaScript · TypeScript · PHP · Bash**
-
 ### 🌐 Frontend Development
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap&perline=10" alt="HTML, CSS, Sass, React, Vite, Next.js, Vue, Angular, Tailwind CSS, Bootstrap" />
 </div>
-
-**HTML5 · CSS3 · Sass · React · Vite · Next.js · Vue.js · Angular · Tailwind CSS · Bootstrap**
 
 ### ⚙️ Backend Development & APIs
 
@@ -60,17 +56,11 @@ I'm a computer engineering enthusiast passionate about software development, eme
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx&perline=9" alt="Node.js, Express, NestJS, Django, Flask, FastAPI, Spring, GraphQL, Nginx" />
 </div>
 
-**Node.js · Express.js · NestJS · Django · Flask · FastAPI · Spring · GraphQL · Nginx**
-
 ### 🤖 Artificial Intelligence & Machine Learning
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter&perline=6" alt="Python, PyTorch, TensorFlow, OpenCV, Anaconda, Jupyter" />
 </div>
-
-**Python · PyTorch · TensorFlow · OpenCV · Anaconda · Jupyter**
-
-Additional topics: NumPy, Pandas, scikit-learn, deep learning, natural language processing, computer vision, generative AI, and large language models.
 
 ### 🛡️ Cybersecurity & Networking
 
@@ -78,19 +68,11 @@ Additional topics: NumPy, Pandas, scikit-learn, deep learning, natural language 
 <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash,cloudflare&perline=7" alt="Kali Linux, Linux, Ubuntu, Windows, PowerShell, Bash, Cloudflare" />
 </div>
 
-**Kali Linux · Linux · Ubuntu · Windows · PowerShell · Bash · Cloudflare**
-
-- 🔎 Network analysis: Wireshark, Nmap, TCP/IP, DNS, routing, and subnetting.
-- 🔐 Application security: OWASP, Burp Suite, authentication, and secure coding.
-- 🌐 Network defense: firewalls, VPNs, TLS, access control, and monitoring.
-
 ### ☁️ Cloud Computing & DevOps
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&perline=9" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions" />
 </div>
-
-**AWS · Azure · Google Cloud · Docker · Kubernetes · Terraform · Ansible · Jenkins · GitHub Actions**
 
 ### 🗄️ Databases & Storage
 
@@ -98,15 +80,11 @@ Additional topics: NumPy, Pandas, scikit-learn, deep learning, natural language 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase&perline=7" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase" />
 </div>
 
-**MySQL · PostgreSQL · MongoDB · Redis · SQLite · Firebase · Supabase**
-
 ### 🧪 Developer Tools & Testing
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest&perline=10" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA, PyCharm, Figma, Postman, Jest, Vitest" />
 </div>
-
-**Git · GitHub · GitLab · VS Code · IntelliJ IDEA · PyCharm · Figma · Postman · Jest · Vitest**
 
 ---
 
