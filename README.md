@@ -20,10 +20,10 @@
     I am a 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ....
   </h1>
 
-  <!-- Combined typing animation: development, AI, cloud, security, and HPC -->
+  <!-- Combined typing animation: development, AI, cloud, securit and HPC -->
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking;%F0%9F%94%90+Cybersecurity;%F0%9F%A4%96+AI+%26+Machine+Learning;%E2%98%81%EF%B8%8F+Cloud+Computing;%F0%9F%8C%90+Networking;%F0%9F%92%BB+Web+Development;%F0%9F%A7%A0+HPC+%26+AI"
-    alt="Animated introduction covering web development, AI, cloud computing, DevOps, cybersecurity, networking, and HPC"
+    alt="Animated introduction covering web development, AI, cloud computing, DevOps, cybersecurity, networking and HPC"
   />
 
   <!-- Social links -->
@@ -82,12 +82,12 @@
 
 ## 🌱 About Me
 
-I'm a computer engineering enthusiast passionate about software development, emerging technologies, and solving real-world problems.
+I'm a computer engineering enthusiast passionate about software development, emerging technologies and solving real-world problems.
 
-- 🤝 Looking to collaborate on **open-source, cloud, and software development projects**.
-- 📚 Exploring **cloud computing, artificial intelligence, and machine learning**.
-- 💬 Interested in **web development, cybersecurity, networking, and UI/UX**.
-- 🧠 I enjoy solving coding challenges, logical puzzles, and technical problems.
+- 🤝 Looking to collaborate on **open-source, cloud and software development projects**.
+- 📚 Exploring **cloud computing, artificial intelligence and machine learning**.
+- 💬 Interested in **web development, cybersecurity, networking and UI/UX**.
+- 🧠 I enjoy solving coding challenges, logical puzzles and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
 
