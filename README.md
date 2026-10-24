@@ -1,30 +1,48 @@
 <div align="center">
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="30" alt="Developer animation" />, I'm Pratik Abhang 👋<br>
-  I am 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ...
-</h1>
+  <!-- Developer GIF -->
+  <img
+    src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"
+    width="220"
+    alt="Animated web developer"
+  />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
+  <!-- Name -->
+  <p>
+    <strong>
+      <span style="font-size: 2em;">👋 Hi, I'm Pratik Abhang</span>
+    </strong>
+  </p>
 
-<h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
+  <!-- Professional roles: listed once -->
+  <h3>🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
 
-<p><strong>Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development</strong></p>
+  <!-- Animated introduction -->
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking"
+    alt="Animated introduction"
+  />
 
-<p>
-  <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+  <!-- Areas of interest -->
+  <p>
+    <strong>🔐 Cybersecurity · 🤖 AI & Machine Learning · ☁️ Cloud Computing · 🌐 Networking · 💻 Web Development</strong>
+  </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pratikabhang?style=flat-square&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/pratikabhang?style=flat-square&label=Stars" alt="GitHub stars" />
-</p>
+  <!-- Social links -->
+  <p>
+    <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://pratikabhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/pratikabhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+
+  <!-- Profile statistics -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/pratikabhang?style=flat-square&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/pratikabhang?style=flat-square&label=Stars" alt="GitHub stars" />
+  </p>
 
 </div>
-
 ## 🌱 About Me
 
 I'm a computer engineering enthusiast passionate about software development, emerging technologies, and solving real-world problems.
