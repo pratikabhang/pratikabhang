@@ -195,6 +195,6 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 
 <div align="center">
 
-<h3>✨ Learn Continuously · Build Thoughtfully · Explore Responsibly 🚀</h3>
+### 🧠 99% Curiosity, 1% Knowing What I'm Doing 😂
 
 </div>
