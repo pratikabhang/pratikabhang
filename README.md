@@ -18,7 +18,7 @@
     />,
     I'm Pratik Abhang
     <br />
-    I am a 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ...
+    I am a 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ....
   </h1>
 
   <!-- Combined typing animation: development, AI, cloud, security, and HPC -->
@@ -27,27 +27,40 @@
     alt="Animated introduction covering web development, AI, cloud computing, DevOps, cybersecurity, networking, and HPC"
   />
 
-  <!-- Social links -->
-  <p>
-    <a href="https://github.com/pratikabhang">
-      <img
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-      />
-    </a>
-    <a href="https://pratikabhang.netlify.app">
-      <img
-        src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
-        alt="Portfolio"
-      />
-    </a>
-    <a href="https://linkedin.com/in/pratikabhang">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-  </p>
+<!-- Social links: GitHub, Portfolio, LinkedIn, Instagram, and Email -->
+<p align="center">
+  <a href="https://github.com/pratikabhang">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://pratikabhang.netlify.app">
+    <img
+      src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://linkedin.com/in/pratikabhang">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://instagram.com/pratikabhang1">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="mailto:work.pratikabhang@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
 
   <!-- GitHub profile statistics -->
   <p>
