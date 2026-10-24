@@ -116,8 +116,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
-<sub>These are official platform links. Add your personal profile URLs to showcase your coding activity.</sub>
-
 ---
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
