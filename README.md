@@ -1,6 +1,6 @@
 <div align="center">
 
-#### 👋 Hi, I'm Pratik Abhang
+### 👋 Hi, I'm Pratik Abhang
 
 ### 🎓 Computer Engineer · 💻 Developer · 🎨 Designer
 
