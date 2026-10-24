@@ -1,230 +1,215 @@
-<div align="center">
-
 # 👋 Hi, I'm Pratik Abhang
-</div>
+
 <div align="center">
 
-  <h2>💻 Computer Engineer | Technology Enthusiast</h2>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36" alt="Waving hand" />
+
+  <h2>💻 Computer Engineer | AI/ML | Cybersecurity | Cloud & Networking</h2>
 
   <p>
-    <b>Cybersecurity · AI/ML · Cloud Computing · Networking · Web Technologies</b>
+    <b>Building • Exploring • Automating • Innovating</b>
   </p>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Network+Security;Cloud+Computing+%26+DevOps;Computer+Networks+%26+Operating+Systems;Full-Stack+Web+Development;High-Performance+Computing" alt="Animated technology interests" />
+
+  <br />
+
   <a href="https://pratikabhang.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/pratikabhang">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/pratikabhang">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br /><br />
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity+%26+Networking;Learning+Artificial+Intelligence+%26+ML;Building+Modern+Web+Applications;Exploring+Cloud+%26+DevOps;Learning.+Building.+Improving." alt="Animated technology interests" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pratikabhang?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/pratikabhang?style=flat-square&logo=github&label=Stars" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=pratikabhang&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pratikabhang?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/pratikabhang?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars" />
 
 </div>
 
 ---
 
-## 🌱 About Me
+## 🌌 About Me
 
-I'm passionate about computer engineering and exploring how software, infrastructure, and intelligent systems work together.
+I'm interested in the intersection of software engineering, intelligent systems, infrastructure, and digital security.
 
-- 💻 Interested in programming, software engineering, and computer science.
-- 🛡️ Exploring cybersecurity, secure application development, and network security.
-- 🤖 Learning artificial intelligence, machine learning, and data science.
-- ☁️ Exploring cloud computing, infrastructure, virtualization, and DevOps.
-- 🌐 Interested in computer networking, protocols, and network troubleshooting.
-- 🖥️ Exploring operating systems, Linux, system administration, and automation.
-- 🔧 Building knowledge of modern web technologies and full-stack development.
-- 🤝 Interested in collaborating on useful software and open-source projects.
+- 🤖 **AI & Machine Learning:** intelligent applications, NLP, deep learning, and data analysis.
+- 🛡️ **Cybersecurity:** application security, threat analysis, network defense, and secure coding.
+- ☁️ **Cloud & DevOps:** cloud infrastructure, Linux, containers, automation, and deployment.
+- 🌐 **Networking:** TCP/IP, routing, switching, DNS, network monitoring, and troubleshooting.
+- 💻 **Web Engineering:** modern frontend applications, backend services, and REST APIs.
+- ⚡ **HPC & Systems:** parallel computing, workload scheduling, and operating systems.
+- 🔧 **Developer Tools:** version control, API testing, debugging, and development workflows.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🧩 Complete Technology Stack
 
 ### 💻 Programming Languages
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash" alt="Programming language icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash,powershell,rust,go&theme=dark&perline=11" alt="Programming language icons" />
 
 </div>
 
-### 🌐 Web Development
+### 🎨 Frontend & Web Technologies
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,nodejs,express,flask,django,spring,bootstrap,tailwind" alt="Web development technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,vite,vue,angular,svelte,astro,threejs,webpack&theme=dark&perline=8" alt="Frontend technology icons" />
 
 </div>
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, responsive design
-- **Backend:** Node.js, Express.js, Flask, Django, Spring
-- **UI & Styling:** Bootstrap, Tailwind CSS, component-based interfaces
-- **Web concepts:** REST APIs, HTTP/HTTPS, client-server architecture, JSON
-
-### 🤖 Artificial Intelligence & Machine Learning
+### ⚙️ Backend & API Development
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="AI and machine learning icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,django,fastapi,spring,graphql,apollo,prisma,sequelize,nginx&theme=dark&perline=8" alt="Backend technology icons" />
 
 </div>
 
-- Artificial Intelligence and Machine Learning fundamentals
-- Deep Learning concepts
-- Natural Language Processing (NLP)
-- Data preprocessing and model evaluation
-- NumPy, Pandas, Matplotlib, and Jupyter
-- Computer vision fundamentals
-- Generative AI and Retrieval-Augmented Generation (RAG) concepts
-
-### 🛡️ Cybersecurity & Information Security
+### 🤖 Artificial Intelligence, ML & Data Science
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker" alt="Security and Linux tools" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,jupyter&theme=dark&perline=7" alt="AI and data science icons" />
 
 </div>
 
-- Cybersecurity fundamentals
-- Network security concepts
-- Web application security
-- Authentication and access control
-- Security awareness and secure coding
-- Vulnerability assessment concepts
-- Threat detection and security monitoring
-- OWASP Top 10 concepts
-- Encryption and hashing fundamentals
-- Linux security and command-line tools
+<div align="center">
 
-**Tools to explore:** Wireshark, Nmap, Burp Suite, OWASP ZAP, and Metasploit.
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG-Document_AI-8A2BE2?style=flat-square)
 
-### 🌐 Computer Networking
+</div>
 
-- TCP/IP and the OSI reference model
-- IPv4, IPv6, and subnetting
-- DNS, DHCP, HTTP, HTTPS, and SSH
-- Routing and switching fundamentals
-- LAN, WAN, VLAN, and wireless networking concepts
-- Firewalls, VPNs, and network segmentation
-- Network troubleshooting and packet analysis
+**Focus areas:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG, model evaluation, and data preprocessing.
 
-**Networking tools:** Wireshark, Cisco Packet Tracer, and Nmap.
+### 🛡️ Cybersecurity & Security Operations
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,cloudflare&theme=dark&perline=5" alt="Security-related technology icons" />
+
+  <br /><br />
+
+  ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat-square)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square)
+  ![OWASP](https://img.shields.io/badge/OWASP-Web_Security-000000?style=flat-square&logo=owasp&logoColor=white)
+
+</div>
+
+**Focus areas:**
+
+- Network and web application security
+- TCP/IP analysis and packet inspection
+- Authentication, authorization, and secure coding
+- Vulnerability assessment fundamentals
+- Threat intelligence and security monitoring
+- Encryption, hashing, and access control
+- Linux security and incident-analysis concepts
+
+*Security tools are included as technologies of interest; retain only those you have actually used or are actively learning.*
 
 ### ☁️ Cloud Computing & DevOps
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,nginx" alt="Cloud and DevOps technology icons" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,cloudflare,docker,kubernetes,terraform,ansible,jenkins,githubactions,nginx,linux&theme=dark&perline=7" alt="Cloud and DevOps icons" />
 
 </div>
 
-- Cloud computing and virtualization concepts
-- Infrastructure as a Service (IaaS), PaaS, and SaaS
-- Linux system administration fundamentals
-- Docker containers and Kubernetes concepts
-- CI/CD workflows and automation
-- Infrastructure as Code (IaC) concepts
-- Web servers, reverse proxies, and deployment
-- Monitoring, logging, and infrastructure reliability
+**Focus areas:** Cloud architecture, virtual machines, containers, CI/CD, infrastructure automation, deployment, monitoring, and reliability.
+
+### 🌐 Computer Networking & Infrastructure
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows,powershell,bash,docker,nginx&theme=dark&perline=9" alt="Operating systems and networking infrastructure icons" />
+
+</div>
+
+**Networking concepts:**
+
+- OSI and TCP/IP reference models
+- IPv4, IPv6, subnetting, and addressing
+- DNS, DHCP, HTTP/HTTPS, SSH, and TLS
+- Routing, switching, VLANs, and wireless networking
+- Firewalls, VPNs, and network segmentation
+- Packet capture and network troubleshooting
 
 ### ⚡ High-Performance Computing & Systems
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=linux,bash,cmake,cpp,python,docker" alt="Computing and systems tools" />
+  <img src="https://skillicons.dev/icons?i=linux,cpp,c,python,bash,cmake,docker&theme=dark&perline=7" alt="HPC and systems technology icons" />
+
+  <br /><br />
+
+  ![OpenMP](https://img.shields.io/badge/OpenMP-Parallel_Computing-5C2D91?style=flat-square)
+  ![MPI](https://img.shields.io/badge/MPI-Distributed_Computing-00599C?style=flat-square)
+  ![CUDA](https://img.shields.io/badge/CUDA-GPU_Computing-76B900?style=flat-square&logo=nvidia&logoColor=white)
+  ![SLURM](https://img.shields.io/badge/SLURM-Job_Scheduling-007A33?style=flat-square)
 
 </div>
 
-- High-Performance Computing (HPC) fundamentals
-- Parallel programming concepts
-- OpenMP, MPI, and CUDA
-- Linux-based computing environments
-- SLURM workload scheduling concepts
-- Performance analysis and resource optimization
-- Operating systems and process management
-- Shell scripting and automation
+**Focus areas:** Parallel programming, process management, workload scheduling, performance optimization, and Linux computing environments.
 
-### 🗄️ Databases & Data Management
+### 🗄️ Databases & Storage
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sqlite" alt="Database technology icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,cassandra,prisma&theme=dark&perline=9" alt="Database and storage icons" />
 
 </div>
 
-- Relational database concepts and SQL
-- MySQL and PostgreSQL
-- MongoDB and NoSQL fundamentals
-- Firebase and Supabase
-- Database design and data modeling
-- Indexing, querying, and data integrity
-- Caching concepts with Redis
+**Focus areas:** SQL, NoSQL, relational modeling, database design, indexing, transactions, caching, and data integrity.
 
-### 🔌 APIs, Testing & Integration
+### 🔌 APIs, Testing & Automation
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=postman,graphql,selenium,vitest,jest" alt="API and testing tools" />
+  <img src="https://skillicons.dev/icons?i=postman,graphql,selenium,jest,vitest,pytest&theme=dark&perline=6" alt="API testing and automation icons" />
 
 </div>
 
-- RESTful API design and integration
-- JSON and HTTP request/response handling
-- API testing with Postman
-- Automated testing fundamentals
-- Unit and integration testing concepts
-- Browser automation concepts
-- API documentation and error handling
+**Focus areas:** REST APIs, API validation, unit testing, integration testing, browser automation, debugging, and documentation.
 
-### 🧰 Developer Tools & Productivity
+### 🧰 IDEs, Version Control & Productivity
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,vim,figma,notion,jupyter" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,vim,figma,notion,jupyter&theme=dark&perline=10" alt="Developer tool icons" />
 
 </div>
 
-- Git and GitHub
-- Branching, merging, and version control
-- Visual Studio Code and JetBrains IDEs
-- Jupyter Notebook
-- Figma and UI prototyping
-- Markdown and technical documentation
-- Debugging and command-line workflows
+### 🖥️ Computer Science Fundamentals
+
+<div align="center">
+
+  ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=flat-square)
+  ![OS](https://img.shields.io/badge/Operating_Systems-0F766E?style=flat-square)
+  ![DBMS](https://img.shields.io/badge/DBMS-7C3AED?style=flat-square)
+  ![Architecture](https://img.shields.io/badge/Computer_Architecture-475569?style=flat-square)
+  ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-0284C7?style=flat-square)
+  ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-9333EA?style=flat-square)
+
+</div>
 
 ---
 
-## 📚 Core Computer Science
-
-| Domain | Areas of Interest |
-|---|---|
-| Data Structures & Algorithms | Arrays, linked lists, trees, graphs, sorting, searching |
-| Operating Systems | Processes, threads, memory, scheduling, Linux |
-| Computer Networks | TCP/IP, OSI, DNS, routing, switching |
-| Database Systems | SQL, normalization, transactions, indexing |
-| Software Engineering | Design principles, testing, debugging, maintainability |
-| Cybersecurity | Secure coding, authentication, network defense |
-| Distributed Systems | Concurrency, communication, scalability concepts |
-| Computer Architecture | CPU, memory hierarchy, instruction execution |
-| Cloud & Infrastructure | Virtualization, containers, deployment |
-| AI & Data Science | Model training, evaluation, data analysis |
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -242,13 +227,13 @@ I'm passionate about computer engineering and exploring how software, infrastruc
 
   <br /><br />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratikabhang&theme=github-compact&hide_border=true" alt="GitHub contribution activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratikabhang&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
 
 </div>
 
 ---
 
-## 🧩 Coding & Developer Platforms
+## 🧠 Developer & Coding Platforms
 
 <div align="center">
 
@@ -273,47 +258,26 @@ I'm passionate about computer engineering and exploring how software, infrastruc
 
 </div>
 
-<p align="center">
-  <sub>Replace these platform homepage links with your personal profile URLs when you are ready to display account-specific statistics.</sub>
-</p>
-
 ---
 
-## 🎯 Areas of Interest
-
-<div align="center">
-
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security%20Fundamentals-red?style=flat-square)
-  ![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-blueviolet?style=flat-square)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-orange?style=flat-square)
-  ![Cloud](https://img.shields.io/badge/Cloud%20Computing-Infrastructure-blue?style=flat-square)
-  ![Networking](https://img.shields.io/badge/Computer%20Networking-TCP%2FIP-green?style=flat-square)
-  ![Web](https://img.shields.io/badge/Web%20Technologies-Full%20Stack-0EA5E9?style=flat-square)
-  ![HPC](https://img.shields.io/badge/High--Performance%20Computing-HPC-7C3AED?style=flat-square)
-  ![DevOps](https://img.shields.io/badge/DevOps-Automation-2496ED?style=flat-square)
-
-</div>
-
----
-
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
   <a href="https://pratikabhang.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/pratikabhang">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/pratikabhang">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/pratikabhang1">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:work.pratikabhang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
@@ -322,8 +286,8 @@ I'm passionate about computer engineering and exploring how software, infrastruc
 
 <div align="center">
 
-  ### 🚀 Learn Continuously · Build Thoughtfully · Keep Exploring
+  <h3>⚡ Think · Build · Secure · Scale · Innovate ⚡</h3>
 
-  <sub>Thanks for visiting my GitHub profile!</sub>
+  <sub>Thanks for visiting my GitHub profile. Keep learning and keep building!</sub>
 
 </div>
