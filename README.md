@@ -7,12 +7,10 @@
     alt="Animated web developer"
   />
 
-  <!-- Name -->
-  <h3>
-    <strong>
-      <span style="font-size: 2em;">👋 Hi, I'm Pratik Abhang</span>
-    </strong>
-  </h3>
+  <h1>
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
+    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
+  </h1>
 
   <!-- Professional roles: listed once -->
   <h3>🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
