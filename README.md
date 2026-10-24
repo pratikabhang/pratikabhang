@@ -3,18 +3,14 @@
   <!-- Developer GIF -->
   <img
     src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"
-    width="220"
+    width="300"
     alt="Animated web developer"
   />
 
   <h1>
     Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Pratik Abhang <br>
-    I am a Computer Engineer 👨‍🎓, Developer 👨‍💻 & Designer 🤩...
+    I am a 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ...
   </h1>
-
-  <!-- Professional roles: listed once -->
-  <h3>🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
-
 
  
 <!-- Single combined typing animation -->
