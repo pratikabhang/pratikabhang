@@ -8,11 +8,11 @@
   />
 
   <!-- Name -->
-  <p>
+  <h3>
     <strong>
       <span style="font-size: 2em;">👋 Hi, I'm Pratik Abhang</span>
     </strong>
-  </p>
+  </h3>
 
   <!-- Professional roles: listed once -->
   <h3>🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
