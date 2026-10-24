@@ -1,12 +1,12 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
 <h1>👋 Hi, I'm Pratik Abhang</h1>
 
 <h3>🎓 Computer Engineer · 💻 Developer · 🎨 Designer</h3>
 
 <p><strong>Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development</strong></p>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
 <p>
   <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
