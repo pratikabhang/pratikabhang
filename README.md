@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pratik Abhang
 
-### 🎓 Computer Engineer · 💻 Developer · 🎨 Designer
+## 🎓 Computer Engineer · 💻 Developer · 🎨 Designer
 
 **Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development**
 
