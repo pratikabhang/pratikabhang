@@ -28,12 +28,12 @@
 
 ## 🌱 About Me
 
-I'm a computer engineering enthusiast passionate about software development, emerging technologies, and solving real-world problems.
+I'm a computer engineering enthusiast passionate about software development, emerging technologies and solving real-world problems.
 
-- 🤝 Looking to collaborate on **open-source, cloud, and software development projects**.
-- 📚 Exploring **cloud computing, artificial intelligence, and machine learning**.
-- 💬 Interested in **web development, cybersecurity, networking, and UI/UX**.
-- 🧠 I enjoy solving coding challenges, logical puzzles, and technical problems.
+- 🤝 Looking to collaborate on **open-source, cloud and software development projects**.
+- 📚 Exploring **cloud computing, artificial intelligence and machine learning**.
+- 💬 Interested in **web development, cybersecurity, networking and UI/UX**.
+- 🧠 I enjoy solving coding challenges, logical puzzles and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
 
@@ -122,8 +122,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
 ---
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
-
-<sub>This section is updated automatically every day by the GitHub Actions workflow at <code>.github/workflows/daily-readme.yml</code>.</sub>
 
 <!-- DAILY_CONTENT_START -->
 
