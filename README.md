@@ -4,7 +4,7 @@
   <!-- Animated web developer illustration -->
   <img
     src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"
-    width="300"
+    width="500"
     alt="Animated web developer"
   />
 
