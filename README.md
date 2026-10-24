@@ -39,7 +39,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ## 🧰 Technology Stack
 
-*Technologies and tools I use, explore, or am learning.*
+*Technologies and tools I use, explore or am learning.*
 
 ### 💻 Programming Languages
 <p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Bash" /></p>
@@ -122,6 +122,8 @@ I'm a computer engineering enthusiast passionate about software development, eme
 ---
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
+
+<sub>This section is updated automatically every day by the GitHub Actions workflow at <code>.github/workflows/daily-readme.yml</code>.</sub>
 
 <!-- DAILY_CONTENT_START -->
 
