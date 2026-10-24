@@ -91,8 +91,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
 - 🎯 My goal is to learn continuously and build useful applications.
 - ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
 
----
-
 ## 🧰 Technology Stack
 
 *Technologies and tools I use, explore, or am learning.*
@@ -169,8 +167,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
   />
 </p>
 
----
-
 ## 📚 Computer Science Fundamentals
 
 - 🧮 Data Structures and Algorithms
@@ -181,8 +177,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
 - 🧪 Software Engineering and Testing
 - ⚡ Parallel Programming and Performance Optimization
 - 🔒 Security Fundamentals and Secure Software Design
-
----
 
 ## 📊 GitHub Analytics
 
@@ -224,8 +218,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 <sub>GitHub analytics are provided by external services and may occasionally be delayed or unavailable. Language statistics represent repository code, not overall programming proficiency.</sub>
 
----
-
 ## 🧩 Coding Platforms
 
 <p align="left">
@@ -245,8 +237,6 @@ I'm a computer engineering enthusiast passionate about software development, eme
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
-
----
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
 
@@ -287,8 +277,6 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 
 <!-- DAILY_CONTENT_END -->
 
----
-
 ## ♟️ Problem-Solving Corner
 
 - 🧮 Algorithms and data structures
@@ -299,8 +287,6 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
 - ⚡ Code optimization and performance analysis
 
 **My approach:** Understand → Break Down → Reason → Implement → Test → Optimize.
-
----
 
 ## ✍️ Random Dev Quote
 
