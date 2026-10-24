@@ -1,10 +1,10 @@
 <div align="center">
 
-### 👋 Hi, I'm Pratik Abhang
+<h1>👋 Hi, I'm Pratik Abhang</h1>
 
-### 🎓 Computer Engineer · 💻 Developer · 🎨 Designer
+<h3>🎓 Computer Engineer · 💻 Developer · 🎨 Designer</h3>
 
-**Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development**
+<p><strong>Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
@@ -35,45 +35,35 @@ I'm a computer engineering enthusiast passionate about software development, eme
 - 💬 Interested in **web development, cybersecurity, networking, and UI/UX**.
 - 🧠 I enjoy solving coding challenges, logical puzzles, and technical problems.
 - 🎯 My goal is to learn continuously and build useful applications.
-- ⚡ **Fun fact:** Your brain is constantly “eating itself” through cellular recycling processes such as autophagy, which help cells reuse damaged components.
-
----
+- ⚡ **Fun fact:** Your brain uses cellular recycling processes such as **autophagy** to break down and reuse damaged components.
 
 ## 🧰 Technology Stack
 
 *Technologies and tools I use, explore, or am learning.*
 
 ### 💻 Programming Languages
-
 <p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash&perline=8" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Bash" /></p>
 
 ### 🌐 Frontend Development
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap&perline=8" alt="HTML, CSS, Sass, React, Vite, Next.js, Vue, Angular, Tailwind CSS, Bootstrap" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,react,vite,nextjs,vue,angular,tailwind,bootstrap&perline=10" alt="HTML, CSS, Sass, React, Vite, Next.js, Vue, Angular, Tailwind CSS, Bootstrap" /></p>
 
 ### ⚙️ Backend Development & APIs
-
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx&perline=8" alt="Node.js, Express, NestJS, Django, Flask, FastAPI, Spring, GraphQL, Nginx" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,graphql,nginx&perline=9" alt="Node.js, Express, NestJS, Django, Flask, FastAPI, Spring, GraphQL, Nginx" /></p>
 
 ### 🤖 Artificial Intelligence & Machine Learning
-
 <p align="left"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter&perline=6" alt="Python, PyTorch, TensorFlow, OpenCV, Anaconda, Jupyter" /></p>
 
 ### 🛡️ Cybersecurity & Networking
-
 <p align="left"><img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash,cloudflare&perline=7" alt="Kali Linux, Linux, Ubuntu, Windows, PowerShell, Bash, Cloudflare" /></p>
 
 ### ☁️ Cloud Computing & DevOps
-
-<p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&perline=8" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&perline=9" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions" /></p>
 
 ### 🗄️ Databases & Storage
-
 <p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase&perline=7" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase" /></p>
 
 ### 🧪 Developer Tools & Testing
-
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest&perline=8" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA, PyCharm, Figma, Postman, Jest, Vitest" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,figma,postman,jest,vitest&perline=10" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA, PyCharm, Figma, Postman, Jest, Vitest" /></p>
 
 ---
 
@@ -100,16 +90,11 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 <br />
 
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikabhang&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" width="75%" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikabhang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" width="65%" />
 
 <br />
 
@@ -138,7 +123,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ## 🎲 Daily Random Facts, Puzzles & Tech Quiz
 
-<sub>This section can be automatically updated every day using the GitHub Actions workflow in .github/workflows/daily-readme.yml.</sub>
+<sub>This section is updated automatically every day by the GitHub Actions workflow at <code>.github/workflows/daily-readme.yml</code>.</sub>
 
 <!-- DAILY_CONTENT_START -->
 
@@ -208,10 +193,8 @@ Your brain uses **autophagy**, a cellular recycling process that helps break dow
   <a href="mailto:work.pratikabhang@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
 <div align="center">
 
-### ✨ Learn Continuously · Build Thoughtfully · Explore Responsibly 🚀
+<h3>✨ Learn Continuously · Build Thoughtfully · Explore Responsibly 🚀</h3>
 
 </div>
