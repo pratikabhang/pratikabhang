@@ -17,7 +17,7 @@
     />,
     I'm Pratik Abhang
     <br />
-    I am a 👨‍🎓 Computer Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast ....
+    I am a 👨‍🎓 Computer Engineer, 💻 Developer, 📊 Analyst, 🎨 Creative Mind, 🛡️ Cybersecurity Enthusiast ....
   </h1>
 
   <!-- Combined typing animation: development, AI, cloud, securit and HPC -->
