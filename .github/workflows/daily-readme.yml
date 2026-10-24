@@ -1,0 +1,146 @@
+
+name: Update Daily README Content
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-daily-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Rotate daily content
+        shell: python
+        run: |
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import textwrap
+
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+
+          start = "<!-- DAILY_CONTENT_START -->"
+          end = "<!-- DAILY_CONTENT_END -->"
+
+          if start not in content or end not in content:
+              raise SystemExit("Daily content markers are missing.")
+
+          facts = [
+              "Your brain uses **autophagy**, a cellular recycling process that helps break down and reuse damaged components.",
+              "DNS helps translate human-readable domain names into information used to locate internet services.",
+              "A single bit can represent two possible states: 0 and 1.",
+              "The word *bug* was used for technical faults before the famous 1947 moth incident.",
+              "An algorithm is a defined sequence of steps for solving a problem.",
+              "Cryptographic hashes produce fixed-size digests from input data.",
+              "Open-source software can be inspected and modified according to its license."
+          ]
+
+          puzzles = [
+              ("A farmer has 17 sheep. All but 9 run away. How many remain?",
+               "9 sheep. “All but 9” means all except 9 ran away."),
+              ("You take 2 apples from a pile of 3. How many apples do you have?",
+               "2 apples — the two you took."),
+              ("What comes next: 2, 4, 8, 16, ...?",
+               "32 — each number is multiplied by 2."),
+              ("Four cats sit in four corners. Each cat sees the other three. How many cats are there?",
+               "4 cats."),
+              ("Which is heavier: 1 kg of iron or 1 kg of feathers?",
+               "Neither. Both have a mass of 1 kg."),
+              ("If you overtake the person in second place, what position are you in?",
+               "Second place."),
+              ("What even integer is greater than 10 and less than 14?",
+               "12.")
+          ]
+
+          quizzes = [
+              ("Which data structure follows LIFO?",
+               ["Queue", "Stack", "Tree", "Graph"],
+               "B — Stack. The last item added is the first removed."),
+              ("Which protocol commonly protects web traffic using TLS?",
+               ["FTP", "HTTP alone", "HTTPS", "Telnet"],
+               "C — HTTPS uses TLS to protect data in transit."),
+              ("Which technology is commonly used to style web pages?",
+               ["CSS", "SQL", "Bash", "C"],
+               "A — CSS controls the presentation of web pages."),
+              ("What does DNS help do?",
+               ["Compress files", "Resolve domain names", "Compile code", "Encrypt disks"],
+               "B — DNS helps resolve domain names."),
+              ("Which Git command copies a remote repository locally?",
+               ["git push", "git clone", "git merge", "git status"],
+               "B — git clone."),
+              ("Which SQL command retrieves data?",
+               ["SELECT", "DELETE", "DROP", "ALTER"],
+               "A — SELECT."),
+              ("Which tool is used to package applications in containers?",
+               ["Docker", "Figma", "HTML", "DNS"],
+               "A — Docker.")
+          ]
+
+          day = datetime.now(timezone.utc).date().toordinal()
+          fact = facts[day % len(facts)]
+          puzzle, solution = puzzles[day % len(puzzles)]
+          question, options, answer = quizzes[day % len(quizzes)]
+
+          section = f"""
+          ### 🧠 Random Fact of the Day
+
+          {fact}
+
+          ### 🧩 Brain Teaser of the Day
+
+          **Puzzle:** {puzzle}
+
+          <details>
+          <summary>💡 Reveal the solution</summary>
+
+          **Answer:** {solution}
+
+          </details>
+
+          ### ⚡ Tech Quiz of the Day
+
+          **{question}**
+
+          - A. {options[0]}
+          - B. {options[1]}
+          - C. {options[2]}
+          - D. {options[3]}
+
+          <details>
+          <summary>✅ Reveal the answer</summary>
+
+          **Correct answer: {answer}**
+
+          </details>
+          """
+
+          section = textwrap.dedent(section).strip()
+
+          before, remainder = content.split(start, 1)
+          _, after = remainder.split(end, 1)
+
+          updated = before + start + "\n\n" + section + "\n\n" + end + after
+
+          if updated != content:
+              path.write_text(updated, encoding="utf-8")
+              print("Daily README content refreshed.")
+          else:
+              print("No README changes required.")
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (
+            git commit -m "chore: refresh daily README content" &&
+            git push
+          )
