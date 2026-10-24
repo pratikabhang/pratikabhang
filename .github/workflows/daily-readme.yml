@@ -1,9 +1,8 @@
-
-name: Update Daily README Content
+name: Update daily README content
 
 on:
   schedule:
-    - cron: "15 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,84 +11,65 @@ permissions:
 jobs:
   update-daily-content:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Rotate daily content
-        shell: python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Rotate facts, puzzle, and quiz
+        shell: bash
         run: |
-          from datetime import datetime, timezone
+          python <<'PY'
           from pathlib import Path
-          import textwrap
+          import random
+          from datetime import date
 
-          path = Path("README.md")
-          content = path.read_text(encoding="utf-8")
+          readme_path = Path("README.md")
+          content = readme_path.read_text(encoding="utf-8")
+          start_marker = "<!-- DAILY_CONTENT_START -->"
+          end_marker = "<!-- DAILY_CONTENT_END -->"
 
-          start = "<!-- DAILY_CONTENT_START -->"
-          end = "<!-- DAILY_CONTENT_END -->"
-
-          if start not in content or end not in content:
-              raise SystemExit("Daily content markers are missing.")
+          if start_marker not in content or end_marker not in content:
+              raise SystemExit("Daily content markers were not found in README.md")
 
           facts = [
-              "Your brain uses **autophagy**, a cellular recycling process that helps break down and reuse damaged components.",
-              "DNS helps translate human-readable domain names into information used to locate internet services.",
-              "A single bit can represent two possible states: 0 and 1.",
-              "The word *bug* was used for technical faults before the famous 1947 moth incident.",
-              "An algorithm is a defined sequence of steps for solving a problem.",
-              "Cryptographic hashes produce fixed-size digests from input data.",
-              "Open-source software can be inspected and modified according to its license."
+              "Octopuses have three hearts, and two of them pump blood to the gills.",
+              "A day on Venus is longer than its year when measured by its rotation and orbit.",
+              "The Python programming language was named after Monty Python, not the snake.",
+              "The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.",
+              "Your brain uses cellular recycling processes such as autophagy to break down and reuse damaged components.",
+              "The word “robot” comes from a Czech word associated with forced labor.",
+              "Binary search can find an item in a sorted list in logarithmic time."
           ]
 
           puzzles = [
-              ("A farmer has 17 sheep. All but 9 run away. How many remain?",
-               "9 sheep. “All but 9” means all except 9 ran away."),
-              ("You take 2 apples from a pile of 3. How many apples do you have?",
-               "2 apples — the two you took."),
-              ("What comes next: 2, 4, 8, 16, ...?",
-               "32 — each number is multiplied by 2."),
-              ("Four cats sit in four corners. Each cat sees the other three. How many cats are there?",
-               "4 cats."),
-              ("Which is heavier: 1 kg of iron or 1 kg of feathers?",
-               "Neither. Both have a mass of 1 kg."),
-              ("If you overtake the person in second place, what position are you in?",
-               "Second place."),
-              ("What even integer is greater than 10 and less than 14?",
-               "12.")
+              ("A farmer has 17 sheep. All but 9 run away. How many remain?", "9 sheep. “All but 9” means all except nine ran away."),
+              ("What has keys but cannot open locks?", "A piano."),
+              ("I am an odd number. Remove one letter and I become even. What number am I?", "Seven. Remove the “s” and it becomes “even”."),
+              ("A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?", "4 cats; each can see the other three."),
+              ("What comes next: 2, 4, 8, 16, __?", "32. Each number doubles.")
           ]
 
           quizzes = [
-              ("Which data structure follows LIFO?",
-               ["Queue", "Stack", "Tree", "Graph"],
-               "B — Stack. The last item added is the first removed."),
-              ("Which protocol commonly protects web traffic using TLS?",
-               ["FTP", "HTTP alone", "HTTPS", "Telnet"],
-               "C — HTTPS uses TLS to protect data in transit."),
-              ("Which technology is commonly used to style web pages?",
-               ["CSS", "SQL", "Bash", "C"],
-               "A — CSS controls the presentation of web pages."),
-              ("What does DNS help do?",
-               ["Compress files", "Resolve domain names", "Compile code", "Encrypt disks"],
-               "B — DNS helps resolve domain names."),
-              ("Which Git command copies a remote repository locally?",
-               ["git push", "git clone", "git merge", "git status"],
-               "B — git clone."),
-              ("Which SQL command retrieves data?",
-               ["SELECT", "DELETE", "DROP", "ALTER"],
-               "A — SELECT."),
-              ("Which tool is used to package applications in containers?",
-               ["Docker", "Figma", "HTML", "DNS"],
-               "A — Docker.")
+              ("Which data structure follows Last In, First Out (LIFO)?", ["A. Queue", "B. Stack", "C. Tree", "D. Graph"], "B — Stack. The last item added is the first item removed."),
+              ("Which HTTP status code commonly means “Not Found”?", ["A. 200", "B. 301", "C. 404", "D. 500"], "C — 404."),
+              ("Which Git command creates a new branch and switches to it?", ["A. git merge", "B. git switch -c", "C. git status", "D. git clone"], "B — `git switch -c <branch-name>`."),
+              ("Which data format commonly uses key-value pairs and arrays?", ["A. JPEG", "B. JSON", "C. MP3", "D. PNG"], "B — JSON."),
+              ("What is the average time complexity of hash-table lookup, assuming good hashing?", ["A. O(1)", "B. O(log n)", "C. O(n)", "D. O(n²)"], "A — O(1) on average.")
           ]
 
-          day = datetime.now(timezone.utc).date().toordinal()
-          fact = facts[day % len(facts)]
-          puzzle, solution = puzzles[day % len(puzzles)]
-          question, options, answer = quizzes[day % len(quizzes)]
+          # The daily seed makes the selected content stable for a given date.
+          rng = random.Random(date.today().isoformat())
+          fact = rng.choice(facts)
+          puzzle, puzzle_answer = rng.choice(puzzles)
+          question, options, answer = rng.choice(quizzes)
 
-          section = f"""
+          replacement = f"""<!-- DAILY_CONTENT_START -->
+
           ### 🧠 Random Fact of the Day
 
           {fact}
@@ -101,7 +81,7 @@ jobs:
           <details>
           <summary>💡 Reveal the solution</summary>
 
-          **Answer:** {solution}
+          **Answer:** {puzzle_answer}
 
           </details>
 
@@ -109,38 +89,36 @@ jobs:
 
           **{question}**
 
-          - A. {options[0]}
-          - B. {options[1]}
-          - C. {options[2]}
-          - D. {options[3]}
+          {chr(10).join('- ' + option for option in options)}
 
           <details>
           <summary>✅ Reveal the answer</summary>
 
-          **Correct answer: {answer}**
+          **Correct answer:** {answer}
 
           </details>
-          """
 
-          section = textwrap.dedent(section).strip()
+          <!-- DAILY_CONTENT_END -->"""
 
-          before, remainder = content.split(start, 1)
-          _, after = remainder.split(end, 1)
-
-          updated = before + start + "\n\n" + section + "\n\n" + end + after
+          before, remainder = content.split(start_marker, 1)
+          _, after = remainder.split(end_marker, 1)
+          updated = before + replacement + after
 
           if updated != content:
-              path.write_text(updated, encoding="utf-8")
-              print("Daily README content refreshed.")
+              readme_path.write_text(updated, encoding="utf-8")
+              print("README daily content updated.")
           else:
-              print("No README changes required.")
+              print("README daily content is already up to date.")
+          PY
 
-      - name: Commit changes
+      - name: Commit changes if needed
         run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || (
-            git commit -m "chore: refresh daily README content" &&
-            git push
-          )
+          git commit -m "chore: refresh daily README content"
+          git push
