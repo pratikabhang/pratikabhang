@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
 
-<div align="center">
-  <p><strong><span style="font-size: 2em;">👋 Hi, I'm Pratik Abhang</span></strong></p>
-</div>
+<p align="center">
+  <strong>👋 Hi, I'm Pratik Abhang</strong>
+</p>
 
 <h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
 
