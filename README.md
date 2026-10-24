@@ -1,10 +1,12 @@
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
+
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
 
 <h1>👋 Hi, I'm Pratik Abhang</h1>
 
-<h3>🎓 Computer Engineer · 💻 Developer · 🎨 Designer</h3>
+<h3>🎓 Engineer · 💻 Developer · 📊 Analyst · 🎨 Creative Mind · 🛡️ Cybersecurity Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing+and+DevOps;Exploring+Cybersecurity+and+Networking" alt="Animated introduction" />
 
 <p><strong>Cybersecurity · AI & Machine Learning · Cloud Computing · Networking · Web Development</strong></p>
 
@@ -19,8 +21,6 @@
   <img src="https://img.shields.io/github/followers/pratikabhang?style=flat-square&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/pratikabhang?style=flat-square&label=Stars" alt="GitHub stars" />
 </p>
-
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="500" alt="Animated web developer" />
 
 </div>
 
