@@ -25,13 +25,6 @@
   alt="Building web applications, AI, Cloud Computing, DevOps, Cybersecurity, Networking, Web Development, and HPC"
 />
 
-
-
-  <!-- Areas of interest -->
-  <p>
-    <strong>🔐 Cybersecurity · 🤖 AI & Machine Learning · ☁️ Cloud Computing · 🌐 Networking · 💻 Web Development</strong>
-  </p>
-
   <!-- Social links -->
   <p>
     <a href="https://github.com/pratikabhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
