@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Your brain uses **autophagy**, a cellular recycling process that helps break down and reuse damaged components.
+Your brain uses cellular recycling processes such as autophagy to break down and reuse damaged components.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
+**Puzzle:** What comes next: 2, 4, 8, 16, __?
 
 <details>
-  <summary>💡 Reveal the solution</summary>
+<summary>💡 Reveal the solution</summary>
 
-  **Answer: 9 sheep.** “All but 9” means all except nine ran away.
+**Answer:** 32. Each number doubles.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows the Last In, First Out (LIFO) principle?**
+**What is the average time complexity of hash-table lookup, assuming good hashing?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. O(1)
+- B. O(log n)
+- C. O(n)
+- D. O(n²)
 
 <details>
-  <summary>✅ Reveal the answer</summary>
+<summary>✅ Reveal the answer</summary>
 
-  **Correct answer: B — Stack.** The last item added is the first item removed.
+**Correct answer:** A — O(1) on average.
 
 </details>
 
