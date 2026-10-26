@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Your brain uses cellular recycling processes such as autophagy to break down and reuse damaged components.
+The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What comes next: 2, 4, 8, 16, __?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 32. Each number doubles.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**What is the average time complexity of hash-table lookup, assuming good hashing?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. O(1)
-- B. O(log n)
-- C. O(n)
-- D. O(n²)
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** A — O(1) on average.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
