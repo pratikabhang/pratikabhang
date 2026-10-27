@@ -246,16 +246,16 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
+**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 4 cats; each can see the other three.
+**Answer:** Seven. Remove the “s” and it becomes “even”.
 
 </details>
 
