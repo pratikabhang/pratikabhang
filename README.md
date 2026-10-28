@@ -250,28 +250,28 @@ Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** Seven. Remove the “s” and it becomes “even”.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**What is the average time complexity of hash-table lookup, assuming good hashing?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. O(1)
+- B. O(log n)
+- C. O(n)
+- D. O(n²)
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** A — O(1) on average.
 
 </details>
 
