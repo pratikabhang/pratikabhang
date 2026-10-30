@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-A day on Venus is longer than its year when measured by its rotation and orbit.
+The word “robot” comes from a Czech word associated with forced labor.
 
 ### 🧩 Brain Teaser of the Day
 
@@ -261,17 +261,17 @@ A day on Venus is longer than its year when measured by its rotation and orbit.
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data format commonly uses key-value pairs and arrays?**
+**Which Git command creates a new branch and switches to it?**
 
-- A. JPEG
-- B. JSON
-- C. MP3
-- D. PNG
+- A. git merge
+- B. git switch -c
+- C. git status
+- D. git clone
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — JSON.
+**Correct answer:** B — `git switch -c <branch-name>`.
 
 </details>
 
