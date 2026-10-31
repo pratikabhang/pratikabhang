@@ -246,16 +246,16 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The word “robot” comes from a Czech word associated with forced labor.
+A day on Venus is longer than its year when measured by its rotation and orbit.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
+**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 4 cats; each can see the other three.
+**Answer:** Seven. Remove the “s” and it becomes “even”.
 
 </details>
 
