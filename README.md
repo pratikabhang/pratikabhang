@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-A day on Venus is longer than its year when measured by its rotation and orbit.
+The Python programming language was named after Monty Python, not the snake.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
+**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** Seven. Remove the “s” and it becomes “even”.
+**Answer:** 9 sheep. “All but 9” means all except nine ran away.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**Which data format commonly uses key-value pairs and arrays?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. JPEG
+- B. JSON
+- C. MP3
+- D. PNG
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** B — JSON.
 
 </details>
 
