@@ -246,16 +246,16 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The Python programming language was named after Monty Python, not the snake.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 9 sheep. “All but 9” means all except nine ran away.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
