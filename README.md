@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Octopuses have three hearts, and two of them pump blood to the gills.
+A day on Venus is longer than its year when measured by its rotation and orbit.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 9 sheep. “All but 9” means all except nine ran away.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which HTTP status code commonly means “Not Found”?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. 200
-- B. 301
-- C. 404
-- D. 500
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** C — 404.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
