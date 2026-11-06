@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Binary search can find an item in a sorted list in logarithmic time.
+The word “robot” comes from a Czech word associated with forced labor.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What has keys but cannot open locks?
+**Puzzle:** What comes next: 2, 4, 8, 16, __?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** A piano.
+**Answer:** 32. Each number doubles.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which HTTP status code commonly means “Not Found”?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. 200
+- B. 301
+- C. 404
+- D. 500
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** C — 404.
 
 </details>
 
