@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Binary search can find an item in a sorted list in logarithmic time.
+The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
 
 ### 🧩 Brain Teaser of the Day
 
@@ -261,17 +261,17 @@ Binary search can find an item in a sorted list in logarithmic time.
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which data format commonly uses key-value pairs and arrays?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. JPEG
+- B. JSON
+- C. MP3
+- D. PNG
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — JSON.
 
 </details>
 
