@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
@@ -261,17 +261,17 @@ The first computer bug was a literal moth found in a relay computer in 1947; the
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data format commonly uses key-value pairs and arrays?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. JPEG
-- B. JSON
-- C. MP3
-- D. PNG
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — JSON.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
