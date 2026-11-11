@@ -261,17 +261,17 @@ Binary search can find an item in a sorted list in logarithmic time.
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which Git command creates a new branch and switches to it?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. git merge
+- B. git switch -c
+- C. git status
+- D. git clone
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — `git switch -c <branch-name>`.
 
 </details>
 
