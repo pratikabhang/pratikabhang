@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Binary search can find an item in a sorted list in logarithmic time.
+A day on Venus is longer than its year when measured by its rotation and orbit.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
+**Puzzle:** What comes next: 2, 4, 8, 16, __?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** Seven. Remove the “s” and it becomes “even”.
+**Answer:** 32. Each number doubles.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
