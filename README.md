@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-A day on Venus is longer than its year when measured by its rotation and orbit.
+The word “robot” comes from a Czech word associated with forced labor.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What comes next: 2, 4, 8, 16, __?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 32. Each number doubles.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which data format commonly uses key-value pairs and arrays?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. JPEG
+- B. JSON
+- C. MP3
+- D. PNG
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — JSON.
 
 </details>
 
