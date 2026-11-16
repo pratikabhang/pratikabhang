@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Binary search can find an item in a sorted list in logarithmic time.
+The Python programming language was named after Monty Python, not the snake.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
+**Puzzle:** What has keys but cannot open locks?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 4 cats; each can see the other three.
+**Answer:** A piano.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**Which data format commonly uses key-value pairs and arrays?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. JPEG
+- B. JSON
+- C. MP3
+- D. PNG
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** B — JSON.
 
 </details>
 
