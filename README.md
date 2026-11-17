@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The Python programming language was named after Monty Python, not the snake.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What has keys but cannot open locks?
+**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** A piano.
+**Answer:** Seven. Remove the “s” and it becomes “even”.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data format commonly uses key-value pairs and arrays?**
+**Which HTTP status code commonly means “Not Found”?**
 
-- A. JPEG
-- B. JSON
-- C. MP3
-- D. PNG
+- A. 200
+- B. 301
+- C. 404
+- D. 500
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — JSON.
+**Correct answer:** C — 404.
 
 </details>
 
