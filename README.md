@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Binary search can find an item in a sorted list in logarithmic time.
+The Python programming language was named after Monty Python, not the snake.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
+**Puzzle:** What comes next: 2, 4, 8, 16, __?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 4 cats; each can see the other three.
+**Answer:** 32. Each number doubles.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
