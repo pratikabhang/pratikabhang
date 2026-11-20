@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The Python programming language was named after Monty Python, not the snake.
+The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What comes next: 2, 4, 8, 16, __?
+**Puzzle:** What has keys but cannot open locks?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 32. Each number doubles.
+**Answer:** A piano.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which Git command creates a new branch and switches to it?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. git merge
+- B. git switch -c
+- C. git status
+- D. git clone
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — `git switch -c <branch-name>`.
 
 </details>
 
