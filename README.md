@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
@@ -261,17 +261,17 @@ The first computer bug was a literal moth found in a relay computer in 1947; the
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**Which data format commonly uses key-value pairs and arrays?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. JPEG
+- B. JSON
+- C. MP3
+- D. PNG
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** B — JSON.
 
 </details>
 
