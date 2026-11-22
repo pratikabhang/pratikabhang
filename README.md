@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Octopuses have three hearts, and two of them pump blood to the gills.
+The Python programming language was named after Monty Python, not the snake.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What has keys but cannot open locks?
+**Puzzle:** A room has 4 corners. A cat sits in each corner, and each cat sees 3 cats. How many cats are there?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** A piano.
+**Answer:** 4 cats; each can see the other three.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data format commonly uses key-value pairs and arrays?**
+**Which HTTP status code commonly means “Not Found”?**
 
-- A. JPEG
-- B. JSON
-- C. MP3
-- D. PNG
+- A. 200
+- B. 301
+- C. 404
+- D. 500
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — JSON.
+**Correct answer:** C — 404.
 
 </details>
 
