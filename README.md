@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The word “robot” comes from a Czech word associated with forced labor.
+The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
 
 ### 🧩 Brain Teaser of the Day
 
@@ -261,17 +261,17 @@ The word “robot” comes from a Czech word associated with forced labor.
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which Git command creates a new branch and switches to it?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. git merge
+- B. git switch -c
+- C. git status
+- D. git clone
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — `git switch -c <branch-name>`.
 
 </details>
 
