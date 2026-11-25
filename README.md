@@ -246,7 +246,7 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-The first computer bug was a literal moth found in a relay computer in 1947; the term “bug” was already in use.
+A day on Venus is longer than its year when measured by its rotation and orbit.
 
 ### 🧩 Brain Teaser of the Day
 
