@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-A day on Venus is longer than its year when measured by its rotation and orbit.
+Octopuses have three hearts, and two of them pump blood to the gills.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
+**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** 9 sheep. “All but 9” means all except nine ran away.
+**Answer:** Seven. Remove the “s” and it becomes “even”.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which Git command creates a new branch and switches to it?**
+**What is the average time complexity of hash-table lookup, assuming good hashing?**
 
-- A. git merge
-- B. git switch -c
-- C. git status
-- D. git clone
+- A. O(1)
+- B. O(log n)
+- C. O(n)
+- D. O(n²)
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — `git switch -c <branch-name>`.
+**Correct answer:** A — O(1) on average.
 
 </details>
 
