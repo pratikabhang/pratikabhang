@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Octopuses have three hearts, and two of them pump blood to the gills.
+Your brain uses cellular recycling processes such as autophagy to break down and reuse damaged components.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** I am an odd number. Remove one letter and I become even. What number am I?
+**Puzzle:** What has keys but cannot open locks?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** Seven. Remove the “s” and it becomes “even”.
+**Answer:** A piano.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**What is the average time complexity of hash-table lookup, assuming good hashing?**
+**Which data structure follows Last In, First Out (LIFO)?**
 
-- A. O(1)
-- B. O(log n)
-- C. O(n)
-- D. O(n²)
+- A. Queue
+- B. Stack
+- C. Tree
+- D. Graph
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** A — O(1) on average.
+**Correct answer:** B — Stack. The last item added is the first item removed.
 
 </details>
 
