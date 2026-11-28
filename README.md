@@ -246,32 +246,32 @@ I'm a computer engineering enthusiast passionate about software development, eme
 
 ### 🧠 Random Fact of the Day
 
-Your brain uses cellular recycling processes such as autophagy to break down and reuse damaged components.
+The Python programming language was named after Monty Python, not the snake.
 
 ### 🧩 Brain Teaser of the Day
 
-**Puzzle:** What has keys but cannot open locks?
+**Puzzle:** A farmer has 17 sheep. All but 9 run away. How many remain?
 
 <details>
 <summary>💡 Reveal the solution</summary>
 
-**Answer:** A piano.
+**Answer:** 9 sheep. “All but 9” means all except nine ran away.
 
 </details>
 
 ### ⚡ Tech Quiz of the Day
 
-**Which data structure follows Last In, First Out (LIFO)?**
+**Which Git command creates a new branch and switches to it?**
 
-- A. Queue
-- B. Stack
-- C. Tree
-- D. Graph
+- A. git merge
+- B. git switch -c
+- C. git status
+- D. git clone
 
 <details>
 <summary>✅ Reveal the answer</summary>
 
-**Correct answer:** B — Stack. The last item added is the first item removed.
+**Correct answer:** B — `git switch -c <branch-name>`.
 
 </details>
 
